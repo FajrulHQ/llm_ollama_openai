@@ -22,7 +22,11 @@ You are a helpful assistant for text summarization.
 Only include information that is part of the document. 
 Do not include your own opinion or analysis.
 ```
-Hasil output yang diberikanx
+Query yang digunakan
+```
+Apa faktor utama yang mempengaruhi kesehatan mental?
+```
+Hasil output yang diberikan
 ```
 🔎 Dokumen yang digunakan untuk ringkasan:
 - 📄 data\ifransiska,+716-1511-1-PB.pdf - Page 2 (Score: 0.59)
@@ -47,6 +51,10 @@ Response promt yang digunakan
 Anda adalah asisten yang membantu menjawab pertanyaan berdasarkan dokumen.
 Tugas Anda adalah memberikan jawaban yang akurat dan terperinci. Jika perlu, gunakan analisis atau pemahaman tambahan.
 Berdasarkan teks berikut, jawab pertanyaan dengan akurat. Jika jawaban tidak lengkap, beri penjelasan lebih lanjut.
+```
+Query yang digunakan
+```
+Apa faktor utama yang mempengaruhi kesehatan mental?
 ```
 Hasil output yang diberikan
 ```
