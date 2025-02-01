@@ -15,14 +15,14 @@ pip install os shutil numpy networkx langchain-chroma langchain-huggingface lang
 2. **Memisahkan Dokumen**: Dokumen dipisahkan menjadi chunk dengan ukuran tertentu menggunakan `RecursiveCharacterTextSplitter`.
 3. **Menambahkan ke ChromaDB**: Chunk dokumen yang baru ditambahkan ke ChromaDB jika belum ada.
 
-### Contoh Output 1
+## Contoh Output 1
 Response promt yang digunakan
 ```
 You are a helpful assistant for text summarization. 
 Only include information that is part of the document. 
 Do not include your own opinion or analysis.
 ```
-Hasil output yang diberikan
+Hasil output yang diberikanx
 ```
 🔎 Dokumen yang digunakan untuk ringkasan:
 - 📄 data\ifransiska,+716-1511-1-PB.pdf - Page 2 (Score: 0.59)
@@ -41,7 +41,7 @@ Faktor utama yang mempengaruhi kesehatan mental menurut penelitian adalah:
 Penelitian ini menemukan bahwa dukungan masyarakat dan stigmatisasi yang terhadap penderita gangguan kesehatan mental dapat mempengaruhi kesehatan mental. Selain itu, kondisi wilayah juga berperan dalam meningkatkan jumlah penderita kesehatan mental. Edukasi dan penanganan kesehatan mental juga diperlukan untuk membantu masyarakat mengatasi masalah kesehatan mental.
 ```
 
-### Contoh Output 2
+## Contoh Output 2
 Response promt yang digunakan
 ```
 Anda adalah asisten yang membantu menjawab pertanyaan berdasarkan dokumen.
