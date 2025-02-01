@@ -35,14 +35,13 @@ Hasil output yang diberikan
 - 📄 data\Kesehatan_Mental_Sumber_Daya_Manusia_Ind.pdf - Page 7 (Score: 0.59)
 - 📄 data\Kesehatan_Mental_Sumber_Daya_Manusia_Ind.pdf - Page 0 (Score: 0.58)
 
-Faktor utama yang mempengaruhi kesehatan mental menurut penelitian adalah:
+Faktor utama yang mempengaruhi kesehatan mental menurut teks tersebut adalah:
 
-1. Dukungan masyarakat
-2. Stigma negatif masyarakat terhadap penderita gangguan kesehatan mental
-3. Kondisi wilayah (kepadatan penduduk, prevalensi cacat mental)
-4. Edukaasi dan penanganan kesehatan mental
+1. Dukungan masyarakat: Masyarakat sulit menerima kondisi para penderita gangguan kesehatan mental dan menganggap mereka sebagai orang berbahaya, pasien yang tidak dapat pulih kesehatan mentalnya.
+2. Stigma negatif masyarakat: Kuatnya stigma negatif masyarakat pada penderita gangguan kesehatan mental menjadikan penderita tidak mendapatkan perawatan yang sesuai.
+3. Wilayah: Peneliti menduga terdapat hubungan antara kondisi wilayah terhadap jumlah penderita kesehatan mental, yaitu wilayah dengan kepadatan penduduk akan menghasilkan jumlah cacat mental yang lebih tinggi.
 
-Penelitian ini menemukan bahwa dukungan masyarakat dan stigmatisasi yang terhadap penderita gangguan kesehatan mental dapat mempengaruhi kesehatan mental. Selain itu, kondisi wilayah juga berperan dalam meningkatkan jumlah penderita kesehatan mental. Edukasi dan penanganan kesehatan mental juga diperlukan untuk membantu masyarakat mengatasi masalah kesehatan mental.
+Namun, teks tersebut tidak menyebutkan secara spesifik faktor utama yang mempengaruhi kesehatan mental.
 ```
 
 ## Contoh Output 2
@@ -65,13 +64,15 @@ Hasil output yang diberikan
 - 📄 data\Kesehatan_Mental_Sumber_Daya_Manusia_Ind.pdf - Page 7 (Score: 0.59)
 - 📄 data\Kesehatan_Mental_Sumber_Daya_Manusia_Ind.pdf - Page 0 (Score: 0.58)
 
-Berdasarkan teks tersebut, faktor utama yang mempengaruhi kesehatan mental adalah
+Berdasarkan teks tersebut, faktor utama yang mempengaruhi kesehatan mental adalah stigma negatif masyarakat terhadap penderita gangguan kesehatan mental. Menurut peneliti, kekuatan stigma ini menyebabkan penderita tidak mendapatkan perawatan yang sesuai dan dianggap sebagai sebuah aib oleh keluarga mereka.
 
-1. Dukungan masyarakat: Masyarakat yang tidak menerima kondisi para penderita gangguan kesehatan mental, mereka menganggap para penderita adalah orang berbahaya, pasien yang tidak dapat pulih kesehatan mentalnya, dan layak untuk diasingkan.
-2. Stigma negatif: Kuatnya stigma negatif masyarakat pada penderita gangguan kesehatan mental menjadikan penderita tidak mendapatkan perawatan yang sesuai. Dianggap sebagai sebuah aib, keluarga penderita gangguan kesehatan mental lebih memilih mengurung anggota keluarga yang terkena gangguan.
-3. Wilayah dan penduduk: Peneliti menduga terdapat hubungan antara kondisi wilayah terhadap jumlah penderita kesehatan mental. Wilayah dengan kepadatan penduduk akan menghasilkan jumlah cacat mental yang lebih tinggi.
+Selain itu, teks juga menyebutkan bahwa dukungan masyarakat menjadi aspek penting dalam berkembangnya seseorang menjadi hal yang sangat sulit diraih oleh penderita gangguan kesehatan mental. Masyarakat sulit menerima kondisi para penderita dan menganggap mereka sebagai orang berbahaya atau pasien yang tidak dapat pulih.
 
-Dalam konsep kesehatan mental, tidak hanya faktor-faktor di atas yang mempengaruhi kesehatan mental, tetapi juga kondisi individu sendiri dan berbagai macam treatment yang tersedia untuk membantu meningkatkan kesejahteraan mental.
+Namun, peneliti juga menekankan pentingnya memberikan edukasi mengenai kesehatan mental, gangguan kesehatan mental, dan penanganannya bagi masyarakat pada umumnya. Dengan demikian, diharapkan masyarakat dapat memiliki pemahaman yang lebih baik tentang kesehatan mental dan dapat memberikan dukungan yang tepat kepada penderita.
+
+Dalam penelitian empiris yang dilakukan oleh peneliti menggunakan data dari Podes 2018 oleh BPS, penemuan menunjukkan bahwa wilayah dengan kepadatan penduduk yang tinggi memiliki jumlah cacat mental yang lebih tinggi. Hal ini menunjukkan bahwa faktor demografi juga dapat mempengaruhi kesehatan mental.
+
+Dalam keseluruhan, teks tersebut menyebutkan bahwa faktor utama yang mempengaruhi kesehatan mental adalah stigma negatif masyarakat, dukungan masyarakat, serta faktor demografi.
 ```
 
 ## Catatan
