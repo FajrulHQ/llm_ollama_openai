@@ -6,3 +6,5 @@ data/*pdf
 data/*docx
 data/*txt
 */__pycache__
+chunking/advance_semantic_chunking/data/*
+chunking/advance_semantic_chunking/output-*/*
