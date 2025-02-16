@@ -1,0 +1,7 @@
+Pertamina Hulu Rokan WK Rokan  No. B10 -
+001/PHR86200/2022 -S9 tentang  Pengelolaan Insiden Keamanan Informasi .
+
+Topik: 
+(0, '0.180*"Rokan" + 0.103*"tentang" + 0.103*"Keamanan" + 0.103*"Informasi" + 0.103*"Hulu" + 0.103*"Insiden" + 0.103*"Pertamina" + 0.103*"WK" + 0.103*"Pengelolaan"')
+(1, '0.111*"Rokan" + 0.111*"WK" + 0.111*"Insiden" + 0.111*"Pengelolaan" + 0.111*"Pertamina" + 0.111*"Hulu" + 0.111*"Informasi" + 0.111*"Keamanan" + 0.111*"tentang"')
+(2, '0.111*"Pengelolaan" + 0.111*"Pertamina" + 0.111*"Hulu" + 0.111*"WK" + 0.111*"Insiden" + 0.111*"Keamanan" + 0.111*"tentang" + 0.111*"Informasi" + 0.111*"Rokan"')

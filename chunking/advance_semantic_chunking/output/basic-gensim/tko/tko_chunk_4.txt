@@ -1,0 +1,16 @@
+INFORMATION TECHNOLOGY  NOMOR             : B10-/PHR /2024-S9 
+REVISI  KE        :    
+BERLAKU TMT  :       
+HALAMAN         : 1 dari 5 JUDUL  : PENGELOLAAN AKUN APLIKASI  
+ 
+ 
+0 
+ 1 
+ 2 
+ 3 
+ 4  TATA KERJA
+
+Topik: 
+(0, '0.067*"HALAMAN" + 0.067*"REVISI" + 0.067*"NOMOR" + 0.067*"TATA" + 0.067*"KE" + 0.067*"PENGELOLAAN" + 0.067*"TMT" + 0.067*"TECHNOLOGY" + 0.067*"KERJA" + 0.067*"JUDUL"')
+(1, '0.067*"INFORMATION" + 0.067*"NOMOR" + 0.067*"HALAMAN" + 0.067*"TMT" + 0.067*"akun" + 0.067*"JUDUL" + 0.067*"berlaku" + 0.067*"KERJA" + 0.067*"APLIKASI" + 0.067*"dari"')
+(2, '0.067*"PENGELOLAAN" + 0.067*"TECHNOLOGY" + 0.067*"dari" + 0.067*"REVISI" + 0.067*"APLIKASI" + 0.067*"KE" + 0.067*"TATA" + 0.067*"KERJA" + 0.067*"akun" + 0.067*"berlaku"')

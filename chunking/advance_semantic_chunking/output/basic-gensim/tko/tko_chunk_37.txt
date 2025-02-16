@@ -1,0 +1,6 @@
+Pertamina Hulu Rokan – Zona  Rokan.
+
+Topik: 
+(0, '0.369*"Rokan" + 0.210*"Pertamina" + 0.210*"Hulu" + 0.210*"Zona"')
+(1, '0.251*"Rokan" + 0.250*"Zona" + 0.250*"Hulu" + 0.249*"Pertamina"')
+(2, '0.250*"Hulu" + 0.250*"Pertamina" + 0.250*"Rokan" + 0.250*"Zona"')

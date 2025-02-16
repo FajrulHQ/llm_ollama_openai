@@ -1,0 +1,7 @@
+Akun aplikasi ini diperlukan 
+untuk meng akses aplikasi dengan limitasi untuk Pekerja ( pegawai , mitra kerja dll.)
+
+Topik: 
+(0, '0.113*"untuk" + 0.113*"aplikasi" + 0.065*"dll" + 0.065*"mitra" + 0.065*"meng" + 0.065*"akse" + 0.065*"dengan" + 0.065*"ini" + 0.065*"limitasi" + 0.065*"Pekerja"')
+(1, '0.071*"diperlukan" + 0.071*"ini" + 0.071*"aplikasi" + 0.071*"untuk" + 0.071*"pegawai" + 0.071*"Pekerja" + 0.071*"dengan" + 0.071*"meng" + 0.071*"Akun" + 0.071*"kerja"')
+(2, '0.073*"aplikasi" + 0.072*"untuk" + 0.072*"diperlukan" + 0.071*"kerja" + 0.071*"Akun" + 0.071*"pegawai" + 0.071*"Pekerja" + 0.071*"limitasi" + 0.071*"ini" + 0.071*"dengan"')

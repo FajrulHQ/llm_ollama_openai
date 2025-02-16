@@ -1,0 +1,13 @@
+Pada tahun 2007, PERTAMINA mengubah visi perusahaan   yaitu, “Menjadi 
+Perusahaan Minyak Nasional Kelas Dunia”.    Namun seiring dengan perkembangan 
+bisnis dan perluasan   mandat serta arahan strategis yang diberikan 
+Pemerintah,   maka pada tahun 2011, PERTAMINA menyempurnakan   visinya, yaitu 
+“Menjadi Perusahaan Energi Nasional Kelas   Dunia”. Langkah nyata PERTAMINA 
+dalam merealisasikan visi   menjadi perusahaan energi nasional kelas dunia 
+ditunjukkan   melalui keberhasilan PERTAMINA dalam menuntaskan akuisisi   72,65% 
+saham perusahaan migas Prancis Maurel et Prom   (M&P) di tahun 2017.
+
+Topik: 
+(0, '0.019*"PERTAMINA" + 0.019*"perusahaan" + 0.019*"tahun" + 0.019*"Menjadi" + 0.019*"pada" + 0.019*"dalam" + 0.019*"Kelas" + 0.019*"Nasional" + 0.019*"yaitu" + 0.019*"Dunia"')
+(1, '0.039*"tahun" + 0.039*"perusahaan" + 0.039*"PERTAMINA" + 0.027*"Kelas" + 0.027*"yaitu" + 0.027*"visi" + 0.027*"pada" + 0.027*"dalam" + 0.027*"Perusahaan" + 0.027*"Nasional"')
+(2, '0.019*"PERTAMINA" + 0.019*"tahun" + 0.019*"perusahaan" + 0.019*"Dunia" + 0.019*"Perusahaan" + 0.019*"Nasional" + 0.019*"visi" + 0.019*"Menjadi" + 0.019*"dalam" + 0.019*"yaitu"')

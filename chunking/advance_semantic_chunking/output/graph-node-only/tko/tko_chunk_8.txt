@@ -1,0 +1,23 @@
+ftar di 
+aplikasi dan akun aplikasi yang belum terdaftar di aplikasi atau permintaan 
+akun baru yang diperlukan untuk mengakses aplikasi . FUNGSI  :  INFORMATION TECHNOLOGY  NOMOR             : B10-/PHR /2024-S9 
+REVISI  KE        :    
+BERLAKU TMT  :       
+HALAMAN         : 3 dari 5 JUDUL  : PENGELOLAAN AKUN APLIKASI  
+ 
+ 
+0 
+ 1 
+ 2 
+ 3 
+ 4  TATA KERJA ORGANISASI  
+IV. REFERENSI  
+1. Undang -Undang Republik Indonesia No. 11 Tahun 2008 tentang lnformasi dan 
+Transaksi Elektronik  
+2. Pedoman PT Pertamina Hulu Energi No. A10 -001/PHE53000/2021 -S9 Rev.0 tentang 
+Penyelenggaraan Tata Kelola Teknologi Informasi Perusahaan. 3. Pedoman PT Pertamina Hulu Energi No. A10 -002/PHE53000/2021 -S9 Rev
+
+=== Topics ===
+(0, '0.052*"aplikasi" + 0.040*"akun" + 0.028*"Energi" + 0.028*"PT" + 0.028*"di" + 0.028*"Pedoman" + 0.028*"tentang" + 0.028*"Hulu" + 0.028*"Pertamina" + 0.028*"dan"')
+(1, '0.020*"aplikasi" + 0.019*"akun" + 0.019*"yang" + 0.019*"dan" + 0.019*"Hulu" + 0.019*"tentang" + 0.019*"Pedoman" + 0.019*"Pertamina" + 0.019*"PT" + 0.019*"di"')
+(2, '0.019*"aplikasi" + 0.019*"akun" + 0.019*"Energi" + 0.019*"dan" + 0.019*"Pertamina" + 0.019*"yang" + 0.019*"di" + 0.019*"tentang" + 0.019*"Pedoman" + 0.019*"Hulu"')

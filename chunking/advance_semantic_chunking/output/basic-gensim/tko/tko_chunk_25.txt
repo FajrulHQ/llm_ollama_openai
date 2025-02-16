@@ -1,0 +1,15 @@
+BERLAKU TMT  :       
+HALAMAN         : 2 dari 5 JUDUL  : PENGELOLAAN AKUN APLIKASI  
+ 
+ 
+0 
+ 1 
+ 2 
+ 3 
+ 4  TATA KERJA ORGANISASI  
+5.
+
+Topik: 
+(0, '0.091*"akun" + 0.091*"dari" + 0.091*"TMT" + 0.091*"TATA" + 0.091*"JUDUL" + 0.091*"APLIKASI" + 0.091*"berlaku" + 0.091*"KERJA" + 0.091*"ORGANISASI" + 0.091*"HALAMAN"')
+(1, '0.091*"TATA" + 0.091*"dari" + 0.091*"KERJA" + 0.091*"TMT" + 0.091*"ORGANISASI" + 0.091*"HALAMAN" + 0.091*"berlaku" + 0.091*"akun" + 0.091*"PENGELOLAAN" + 0.091*"APLIKASI"')
+(2, '0.091*"JUDUL" + 0.091*"APLIKASI" + 0.091*"PENGELOLAAN" + 0.091*"berlaku" + 0.091*"akun" + 0.091*"HALAMAN" + 0.091*"ORGANISASI" + 0.091*"TMT" + 0.091*"KERJA" + 0.091*"dari"')

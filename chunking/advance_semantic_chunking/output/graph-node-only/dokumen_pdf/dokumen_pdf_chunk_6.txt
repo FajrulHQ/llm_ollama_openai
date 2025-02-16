@@ -1,0 +1,12 @@
+1 September 2021. Dengan terbentuknya keenam subholding ini, PERTAMINA   dapat lebih fokus 
+untuk mewujudkan kedaulatan energi bagi   Indonesia dengan senantiasa 
+menggaungkan semangat ‘One   Energy, One Pertamina’ yang menyinergikan seluruh 
+kegiatan   penyediaan energi secara lebih fokus dan terarah sehingga   akan 
+membangun satu kekuatan besar di bidang energi yang   dapat memampukan grup 
+PERTAMINA untuk memberikan   dampak yang lebih besar terhadap berbagai upaya 
+untuk   menjawab tantangan terkait kebutuhan energi masa depan.
+
+=== Topics ===
+(0, '0.020*"energi" + 0.020*"untuk" + 0.020*"lebih" + 0.020*"PERTAMINA" + 0.020*"yang" + 0.020*"besar" + 0.020*"dapat" + 0.020*"dengan" + 0.020*"fokus" + 0.020*"bagi"')
+(1, '0.054*"energi" + 0.041*"yang" + 0.041*"lebih" + 0.041*"untuk" + 0.029*"dapat" + 0.029*"fokus" + 0.029*"PERTAMINA" + 0.029*"besar" + 0.029*"dengan" + 0.017*"keenam"')
+(2, '0.020*"energi" + 0.020*"dengan" + 0.020*"lebih" + 0.020*"yang" + 0.020*"untuk" + 0.020*"besar" + 0.020*"fokus" + 0.020*"PERTAMINA" + 0.020*"dapat" + 0.020*"terhadap"')

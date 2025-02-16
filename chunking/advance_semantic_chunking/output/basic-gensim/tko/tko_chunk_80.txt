@@ -1,0 +1,17 @@
+A 1e 
+ 
+ 
+ 
+Prosedur  Application 
+Programmer   
+Technical Writer  
+ Onsite Support  IT IO – Database 
+Administrator  
+f. Technical Writer  membuat tiket  untuk pengecekan 
+terhadap ketersediaan lisensi kepada Onsite 
+Support .
+
+Topik: 
+(0, '0.056*"terhadap" + 0.056*"Technical" + 0.056*"Programmer" + 0.056*"IO" + 0.056*"Prosedur" + 0.056*"lisensi" + 0.056*"Writer" + 0.056*"tiket" + 0.056*"ketersediaan" + 0.056*"membuat"')
+(1, '0.083*"Onsite" + 0.083*"Support" + 0.083*"Writer" + 0.083*"Technical" + 0.048*"Application" + 0.048*"Administrator" + 0.048*"pengecekan" + 0.048*"untuk" + 0.048*"ketersediaan" + 0.048*"database"')
+(2, '0.056*"IO" + 0.056*"lisensi" + 0.056*"Prosedur" + 0.056*"terhadap" + 0.056*"Technical" + 0.056*"kepada" + 0.056*"membuat" + 0.056*"Programmer" + 0.056*"database" + 0.056*"untuk"')

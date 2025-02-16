@@ -1,0 +1,8 @@
+yang dibangun oleh tim 
+Aplikasi IT, dimana akun tersebut diberikan kepada Pekerja ( pegawai, mitra 
+kerja, dan kontraktor)
+
+Topik: 
+(0, '0.063*"dibangun" + 0.063*"yang" + 0.063*"akun" + 0.063*"kepada" + 0.063*"Pekerja" + 0.063*"tersebut" + 0.063*"dan" + 0.063*"dimana" + 0.063*"pegawai" + 0.062*"tim"')
+(1, '0.063*"mitra" + 0.063*"Aplikasi" + 0.063*"oleh" + 0.063*"tim" + 0.063*"kontraktor" + 0.063*"diberikan" + 0.063*"pegawai" + 0.062*"kerja" + 0.062*"dan" + 0.062*"dimana"')
+(2, '0.063*"Pekerja" + 0.063*"tersebut" + 0.063*"yang" + 0.063*"kerja" + 0.063*"dibangun" + 0.063*"akun" + 0.063*"diberikan" + 0.063*"dimana" + 0.063*"kepada" + 0.062*"dan"')

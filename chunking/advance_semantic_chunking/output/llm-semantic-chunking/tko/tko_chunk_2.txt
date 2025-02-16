@@ -1,0 +1,6 @@
+Akun aplikasi ini diperlukan untuk mengakses aplikasi dengan limitasi untuk Pekerja (pegawai, mitra kerja dll.) dengan pengaturan dan pengendalian akses dapat dilakukan sesuai standar dan memenuhi kebutuhan bisnis Perusahaan. II. RUANG LINGKUP Ruang lingkup TKO ini mengatur tata cara pelaksanaan mengenai: 1. Proses pengelolaan akun aplikasi Non-ERP yang meliputi: a. Aplikasi Non-ERP Bisnis b. Aplikasi Upstream 2. Analisis teknis dan peninjauan pemakaian akun-akun aplikasi secara berkala melalui pelaksanaan User Access Review (UAR) setiap dua kali setahun sehingga dapat diketahui rincian pemakaian dari akun-akun aplikasi tersebut. 3.
+
+Topik:
+- aplikasi, akun, dan, ERP, Non, Aplikasi, ini, dapat, dengan, pelaksanaan
+- aplikasi, akun, dan, dapat, pemakaian, pelaksanaan, Aplikasi, dengan, ini, untuk
+- akun, aplikasi, dan, untuk, dengan, ini, pelaksanaan, pemakaian, ERP, Non

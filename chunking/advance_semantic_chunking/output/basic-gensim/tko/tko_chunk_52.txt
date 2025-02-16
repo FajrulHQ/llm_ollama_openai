@@ -1,0 +1,6 @@
+Pedoman PT Pertamina Hulu Energi No. A10
+
+Topik: 
+(0, '0.200*"Pedoman" + 0.200*"Pertamina" + 0.200*"Energi" + 0.200*"PT" + 0.200*"Hulu"')
+(1, '0.200*"PT" + 0.200*"Hulu" + 0.200*"Energi" + 0.200*"Pertamina" + 0.200*"Pedoman"')
+(2, '0.200*"Hulu" + 0.200*"Energi" + 0.200*"PT" + 0.200*"Pertamina" + 0.200*"Pedoman"')

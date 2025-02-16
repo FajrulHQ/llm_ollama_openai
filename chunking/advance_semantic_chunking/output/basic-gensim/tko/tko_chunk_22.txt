@@ -1,0 +1,8 @@
+Aplikasi Upstream  adalah perangkat lunak yang digunakan oleh Perusahaan 
+untuk mendukung proses geology, geophysics, reservoir, production, facility, 
+drilling, engineering (GGRPFDE).
+
+Topik: 
+(0, '0.050*"Upstream" + 0.050*"drilling" + 0.050*"oleh" + 0.050*"facility" + 0.050*"geology" + 0.050*"Aplikasi" + 0.050*"lunak" + 0.050*"reservoir" + 0.050*"engineering" + 0.050*"untuk"')
+(1, '0.050*"perangkat" + 0.050*"GGRPFDE" + 0.050*"oleh" + 0.050*"digunakan" + 0.050*"geophysic" + 0.050*"prose" + 0.050*"engineering" + 0.050*"drilling" + 0.050*"Perusahaan" + 0.050*"Aplikasi"')
+(2, '0.050*"mendukung" + 0.050*"yang" + 0.050*"production" + 0.050*"geology" + 0.050*"adalah" + 0.050*"reservoir" + 0.050*"GGRPFDE" + 0.050*"Perusahaan" + 0.050*"untuk" + 0.050*"lunak"')

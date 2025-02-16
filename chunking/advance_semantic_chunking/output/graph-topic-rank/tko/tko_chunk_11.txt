@@ -1,0 +1,19 @@
+kan daftar akun 
+tersebut ke Technical Writer . b. Technical Writer  mengirimkan daftar akun yang 
+telah dibuat oleh Application  Programmer 
+melalui email  dengan format email  “User Access 
+Review ” berupa peninjauan daftar akun untuk 
+akun yang perlu diperbarui dari aplikasi kepada 
+masing -masing Information Steward . c. Information Steward  meninjau daftar akun 
+aplikasi yang diterima kemudian mengirimkan 
+kembali ke Technical Writer  email UAR  hasil 
+tinjauan berupa daftar akun baru yang perlu 
+ditambahkan akses ke aplikasi. d. Technical Writer  menginfokan hasil peninjauan 
+akun aplikasi yang sudah selesai dilakukan oleh 
+Information Steward  ke Business Analyst , 
+untuk kemudian mem
+
+Topics:
+- Topic 0: ['akun', 'daftar', 'yang', 'aplikasi', 'ke', 'Writer', 'Technical', 'email', 'Information', 'Steward']
+- Topic 1: ['akun', 'yang', 'daftar', 'Technical', 'Writer', 'aplikasi', 'Information', 'ke', 'Steward', 'email']
+- Topic 2: ['akun', 'yang', 'ke', 'Technical', 'daftar', 'Writer', 'aplikasi', 'Steward', 'email', 'mengirimkan']

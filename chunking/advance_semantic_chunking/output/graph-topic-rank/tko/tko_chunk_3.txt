@@ -1,0 +1,14 @@
+sebut. 3. Proses pengelolaan akun -akun aplikasi dimana ada  beberapa aplikasi  yang perlu 
+memiliki akun database  terlebih untuk bisa diberikan akun aplikasi. 4. Peninjauan akun aplikasi dimana ada beberapa aplikasi yang perlu memastikan 
+ketersediaan lisensi terlebih dahulu. III. PENGERTIAN DAN BATASAN  
+A. Pengertian  
+1. Admin Aplikasi adalah personel yang ditunjuk oleh Perusahaan untuk 
+mengontrol akses aplikasi dan/atau data yang tidak bisa di akses oleh pihak 
+yang tidak berwenang. 2. Aplikasi Non -ERP Bisnis  adalah perangkat lunak yang digunakan oleh 
+Perusahaan untuk mendukung operasi penunjang bisnis meliputi: finance , 
+procurement , Health Safety , and Environment , Human Capit
+
+Topics:
+- Topic 2: ['yang', 'aplikasi', 'akun', 'untuk', 'oleh', 'tidak', 'Aplikasi', 'adalah', 'akse', 'bisa']
+- Topic 0: ['aplikasi', 'yang', 'akun', 'Perusahaan', 'oleh', 'untuk', 'terlebih', 'dimana', 'perlu', 'beberapa']
+- Topic 1: ['yang', 'aplikasi', 'akun', 'untuk', 'oleh', 'akse', 'bisa', 'dimana', 'terlebih', 'ada']

@@ -1,0 +1,4 @@
+Desember 1957,
+
+Topik: 
+(0, '1.000*"desember"')

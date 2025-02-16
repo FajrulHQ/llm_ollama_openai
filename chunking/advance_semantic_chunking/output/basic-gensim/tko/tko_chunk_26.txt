@@ -1,0 +1,7 @@
+Atasan Pengguna  adalah atasan langsung dari User  (Pengguna) yang 
+meminta hak akses.
+
+Topik: 
+(0, '0.092*"Pengguna" + 0.091*"User" + 0.091*"akse" + 0.091*"langsung" + 0.091*"atasan" + 0.091*"dari" + 0.091*"meminta" + 0.091*"yang" + 0.091*"Atasan" + 0.091*"hak"')
+(1, '0.149*"Pengguna" + 0.085*"adalah" + 0.085*"hak" + 0.085*"Atasan" + 0.085*"yang" + 0.085*"meminta" + 0.085*"dari" + 0.085*"atasan" + 0.085*"langsung" + 0.085*"akse"')
+(2, '0.091*"langsung" + 0.091*"hak" + 0.091*"adalah" + 0.091*"User" + 0.091*"Atasan" + 0.091*"Pengguna" + 0.091*"akse" + 0.091*"meminta" + 0.091*"dari" + 0.091*"atasan"')

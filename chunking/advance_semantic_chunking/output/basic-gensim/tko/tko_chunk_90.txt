@@ -1,0 +1,10 @@
+A 
+1f 
+1h 
+ Ya Tidak  Ketersediaan 
+lisensi ?
+
+Topik: 
+(0, '0.250*"Tidak" + 0.250*"Ya" + 0.250*"Ketersediaan" + 0.250*"lisensi"')
+(1, '0.250*"lisensi" + 0.250*"Ketersediaan" + 0.250*"Ya" + 0.250*"Tidak"')
+(2, '0.250*"lisensi" + 0.250*"Ketersediaan" + 0.250*"Ya" + 0.250*"Tidak"')

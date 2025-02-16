@@ -1,0 +1,19 @@
+ Support  
+akan memberitahu ke Technical Writer . h. Onsite Support  memberikan akses ke aplikasi yang diminta dan memberitahu penambahan akses akun 
+baru ke Technical  
+i. Technical Writer  membuat tiket permintaan  akses  
+akun  baru kepada: 1) Jika aplikasi tersebut memerlukan akses  database 
+maka lanjut ke proses 1 j 
+2) Jika aplikasi tersebut tidak memerlukan akses 
+database maka lanjut ke proses 1 k. 
+j. IT IO – Database  Administrator  melakukan 
+penambahan akun baru pada database aplikasi yang 
+diminta dan memberitahu penambahan akses akun 
+baru ke Technical Writer . k. Application Programmer  memberikan akses ke 
+aplikasi yang diminta dan memberitahu penambahan 
+akses akun baru ke 
+
+=== Topics ===
+(0, '0.029*"ke" + 0.028*"akse" + 0.028*"aplikasi" + 0.028*"baru" + 0.028*"akun" + 0.028*"database" + 0.028*"dan" + 0.028*"yang" + 0.028*"Technical" + 0.028*"penambahan"')
+(1, '0.083*"ke" + 0.073*"akse" + 0.053*"akun" + 0.053*"baru" + 0.053*"aplikasi" + 0.043*"database" + 0.043*"Technical" + 0.043*"penambahan" + 0.043*"memberitahu" + 0.033*"Writer"')
+(2, '0.029*"ke" + 0.029*"akse" + 0.029*"baru" + 0.028*"aplikasi" + 0.028*"akun" + 0.028*"memberitahu" + 0.028*"penambahan" + 0.028*"Technical" + 0.028*"database" + 0.028*"dan"')

@@ -1,0 +1,8 @@
+-002/PHE53000/2021 -S9 Rev.0 tentang 
+Pedoman Perencanaan Teknologi Informasi  
+4.
+
+Topik: 
+(0, '0.200*"Teknologi" + 0.200*"tentang" + 0.200*"Pedoman" + 0.200*"Perencanaan" + 0.200*"Informasi"')
+(1, '0.200*"Perencanaan" + 0.200*"tentang" + 0.200*"Pedoman" + 0.200*"Informasi" + 0.200*"Teknologi"')
+(2, '0.200*"Teknologi" + 0.200*"Informasi" + 0.200*"Pedoman" + 0.200*"tentang" + 0.200*"Perencanaan"')

@@ -1,0 +1,20 @@
+--- Chunk 9 (Words: 97) ---
+kan daftar akun 
+tersebut ke Technical Writer . b. Technical Writer  mengirimkan daftar akun yang 
+telah dibuat oleh Application  Programmer 
+melalui email  dengan format email  “User Access 
+Review ” berupa peninjauan daftar akun untuk 
+akun yang perlu diperbarui dari aplikasi kepada 
+masing -masing Information Steward . c. Information Steward  meninjau daftar akun 
+aplikasi yang diterima kemudian mengirimkan 
+kembali ke Technical Writer  email UAR  hasil 
+tinjauan berupa daftar akun baru yang perlu 
+ditambahkan akses ke aplikasi. d. Technical Writer  menginfokan hasil peninjauan 
+akun aplikasi yang sudah selesai dilakukan oleh 
+Information Steward  ke Business Analyst , 
+untuk kemudian mem
+
+--- Topics ---
+(0, '0.070*"akun" + 0.051*"daftar" + 0.051*"yang" + 0.041*"ke" + 0.041*"Technical" + 0.041*"Writer" + 0.041*"aplikasi" + 0.032*"Information" + 0.032*"email" + 0.032*"Steward"')
+(1, '0.021*"akun" + 0.021*"aplikasi" + 0.021*"yang" + 0.020*"Steward" + 0.020*"email" + 0.020*"Technical" + 0.020*"Information" + 0.020*"ke" + 0.020*"daftar" + 0.020*"Writer"')
+(2, '0.021*"akun" + 0.021*"daftar" + 0.021*"aplikasi" + 0.021*"Writer" + 0.021*"yang" + 0.021*"Technical" + 0.021*"Steward" + 0.021*"ke" + 0.021*"peninjauan" + 0.021*"email"')

@@ -1,0 +1,15 @@
+.0 tentang 
+Pedoman Perencanaan Teknologi Informasi  
+4. Pedoman SKK Migas No. KEP -00008./SKO0000/2013/S0 tentang Tata Kerja 
+Pengelolaan Teknologi lnformasi dan Komunikasi Pada kontraktor Kontrak Kerja 
+Sama.   
+5. Tata Kelola Organisasi PT Pertamina Hulu Rokan – WK Rokan No. B10 -
+012/PHR86200/2023 -S9 Rev.0 tentang Pengelolaan dan Pemeliharaan Aplikasi IT. V. DOKUMEN TERKAIT  
+1. Tata Kerja Organisasi PT. Pertamina Hulu Rokan WK Rokan  No. B10 -
+001/PHR86200/2022 -S9 tentang  Pengelolaan Insiden Keamanan Informasi . 2. Tata Kerja Organisasi PT. Pertamina Hulu Rokan WK Rokan No. B10-
+036/PHR86200/2023 -S9 tentang Pengelolaan Akses Sistem IT. 3. Dokumen Pelaksanaan User Training  dan User 
+
+Topics:
+- Topic 1: ['Rokan', 'tentang', 'Kerja', 'Pengelolaan', 'Tata', 'Pertamina', 'WK', 'dan', 'Organisasi', 'PT']
+- Topic 0: ['Rokan', 'tentang', 'Pengelolaan', 'Tata', 'Hulu', 'Kerja', 'PT', 'dan', 'WK', 'Pertamina']
+- Topic 2: ['Rokan', 'Tata', 'tentang', 'Organisasi', 'Hulu', 'WK', 'Pengelolaan', 'Kerja', 'PT', 'dan']

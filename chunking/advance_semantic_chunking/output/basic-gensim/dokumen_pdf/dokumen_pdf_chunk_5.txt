@@ -1,0 +1,9 @@
+PERTAMINA   mulai benar -benar mengawali 
+sejarahnya sebagai perusahaan   energi setelah melakukan perubahan nama dari PT 
+Eksploitasi   Tambang Minyak Sumatera Utara menjadi PT Perusahaan   Minyak 
+Nasional (PERMINA).
+
+Topik: 
+(0, '0.044*"PT" + 0.044*"menjadi" + 0.044*"setelah" + 0.043*"PERTAMINA" + 0.043*"Sumatera" + 0.043*"sejarahnya" + 0.043*"Utara" + 0.043*"mulai" + 0.043*"Minyak" + 0.043*"perubahan"')
+(1, '0.043*"setelah" + 0.043*"PT" + 0.043*"PERTAMINA" + 0.043*"perubahan" + 0.043*"sebagai" + 0.043*"Tambang" + 0.043*"Eksploitasi" + 0.043*"Minyak" + 0.043*"dari" + 0.043*"Sumatera"')
+(2, '0.071*"Minyak" + 0.071*"PT" + 0.041*"mengawali" + 0.041*"benar" + 0.041*"nama" + 0.041*"PERMINA" + 0.041*"sebagai" + 0.041*"Perusahaan" + 0.041*"energi" + 0.041*"Nasional"')

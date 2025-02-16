@@ -1,0 +1,13 @@
+Selang beberapa tahun kemudian tepatnya tanggal 15   Desember 1971, 
+Pemerintah mengatur peran PN Pertamina   untuk menghasilkan dan mengolah migas 
+dari ladang -ladang   minyak serta menyediakan kebutuhan bahan bakar dan gas   di 
+Indonesia sehingga nama PN Pertamina diubah menjadi   Perusahaan Pertambangan 
+Minyak dan Gas Bumi Negara.    Dalam tonggak sejarah berikutnya, melalui PP No. 31 
+Tahun   2003 tanggal 17 September 2003, Perusahaan Pertambangan   Minyak dan 
+Gas Bumi Negara berubah nama menjadi   PT Pertamina (Per sero), sebagaimana 
+yang dikenal publik   hingga saat ini.
+
+Topik: 
+(0, '0.048*"dan" + 0.037*"Pertamina" + 0.026*"Minyak" + 0.026*"nama" + 0.026*"PN" + 0.026*"Bumi" + 0.026*"Pertambangan" + 0.026*"Gas" + 0.026*"Perusahaan" + 0.026*"Negara"')
+(1, '0.018*"dan" + 0.018*"Pertamina" + 0.018*"Gas" + 0.018*"Minyak" + 0.018*"Perusahaan" + 0.018*"tanggal" + 0.018*"menjadi" + 0.018*"nama" + 0.018*"Negara" + 0.018*"Bumi"')
+(2, '0.018*"dan" + 0.018*"Pertamina" + 0.018*"menjadi" + 0.018*"Negara" + 0.018*"tanggal" + 0.018*"Perusahaan" + 0.018*"Pertambangan" + 0.018*"Gas" + 0.018*"Bumi" + 0.018*"PN"')

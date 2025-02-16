@@ -1,0 +1,17 @@
+Technical Writer  
+ 
+ 
+ 
+Lampiran  1 - TKO No. B10-/PHR /2024 -S9 Rev. 0  
+Diagram Alir Proses Pengelolaan Akun Aplikasi Melalui Proses User Access Review  
+Prosedur  Application 
+Programmer   
+Technical Writer  
+ Information 
+Steward  Business Analyst  
+ 1.
+
+Topik: 
+(0, '0.048*"Technical" + 0.048*"Writer" + 0.048*"Proses" + 0.048*"User" + 0.048*"Application" + 0.048*"Steward" + 0.048*"Diagram" + 0.048*"Prosedur" + 0.048*"Pengelolaan" + 0.048*"Analyst"')
+(1, '0.048*"Proses" + 0.048*"Technical" + 0.048*"Writer" + 0.048*"Information" + 0.048*"Lampiran" + 0.048*"Akun" + 0.048*"Aplikasi" + 0.048*"Review" + 0.048*"Melalui" + 0.048*"Pengelolaan"')
+(2, '0.075*"Proses" + 0.075*"Writer" + 0.075*"Technical" + 0.043*"Business" + 0.043*"tko" + 0.043*"Programmer" + 0.043*"Alir" + 0.043*"Access" + 0.043*"Akun" + 0.043*"Analyst"')

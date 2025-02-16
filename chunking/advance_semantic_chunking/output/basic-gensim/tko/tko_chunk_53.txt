@@ -1,0 +1,7 @@
+-001/PHE53000/2021 -S9 Rev.0 tentang 
+Penyelenggaraan Tata Kelola Teknologi Informasi Perusahaan.
+
+Topik: 
+(0, '0.143*"Perusahaan" + 0.143*"Penyelenggaraan" + 0.143*"tentang" + 0.143*"Teknologi" + 0.143*"Kelola" + 0.143*"Tata" + 0.143*"Informasi"')
+(1, '0.143*"Perusahaan" + 0.143*"Tata" + 0.143*"Penyelenggaraan" + 0.143*"Teknologi" + 0.143*"Informasi" + 0.143*"Kelola" + 0.143*"tentang"')
+(2, '0.143*"Informasi" + 0.143*"Kelola" + 0.143*"Tata" + 0.143*"tentang" + 0.143*"Teknologi" + 0.143*"Penyelenggaraan" + 0.143*"Perusahaan"')

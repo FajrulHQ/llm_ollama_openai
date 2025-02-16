@@ -1,0 +1,8 @@
+III. PENGERTIAN DAN BATASAN  
+A. Pengertian  
+1.
+
+Topik: 
+(0, '0.200*"III" + 0.200*"PENGERTIAN" + 0.200*"pengertian" + 0.200*"DAN" + 0.200*"BATASAN"')
+(1, '0.200*"BATASAN" + 0.200*"DAN" + 0.200*"pengertian" + 0.200*"PENGERTIAN" + 0.200*"III"')
+(2, '0.200*"BATASAN" + 0.200*"DAN" + 0.200*"PENGERTIAN" + 0.200*"III" + 0.200*"pengertian"')

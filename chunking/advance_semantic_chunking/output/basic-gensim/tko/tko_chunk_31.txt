@@ -1,0 +1,7 @@
+Pemilik Aplikasi adalah pemilik  layanan aplikasi  dan pemilik proses bisnis 
+yang memberikan  layanan aplikasi IT terintegrasi untuk mendukung kegiatan
+
+Topik: 
+(0, '0.101*"pemilik" + 0.101*"layanan" + 0.101*"aplikasi" + 0.058*"Aplikasi" + 0.058*"adalah" + 0.058*"terintegrasi" + 0.058*"mendukung" + 0.058*"dan" + 0.058*"Pemilik" + 0.058*"untuk"')
+(1, '0.067*"Aplikasi" + 0.067*"kegiatan" + 0.067*"Pemilik" + 0.067*"prose" + 0.067*"yang" + 0.067*"bisnis" + 0.067*"mendukung" + 0.067*"memberikan" + 0.067*"pemilik" + 0.067*"terintegrasi"')
+(2, '0.067*"aplikasi" + 0.067*"layanan" + 0.067*"pemilik" + 0.067*"memberikan" + 0.067*"prose" + 0.067*"kegiatan" + 0.067*"yang" + 0.067*"bisnis" + 0.067*"untuk" + 0.067*"Pemilik"')

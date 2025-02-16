@@ -1,0 +1,7 @@
+Pengelolaan akun aplikasi yang dimaksud pada TKO ini adalah untuk akun -
+akun yang memerlukan akses ke aplikasi -aplikasi
+
+Topik: 
+(0, '0.077*"akun" + 0.077*"aplikasi" + 0.077*"akse" + 0.077*"yang" + 0.077*"Pengelolaan" + 0.077*"memerlukan" + 0.077*"dimaksud" + 0.077*"untuk" + 0.077*"ini" + 0.077*"pada"')
+(1, '0.078*"akun" + 0.078*"aplikasi" + 0.077*"yang" + 0.077*"memerlukan" + 0.077*"akse" + 0.077*"dimaksud" + 0.077*"Pengelolaan" + 0.077*"pada" + 0.077*"ke" + 0.077*"TKO"')
+(2, '0.156*"akun" + 0.109*"yang" + 0.109*"aplikasi" + 0.063*"adalah" + 0.063*"ke" + 0.063*"TKO" + 0.063*"ini" + 0.063*"pada" + 0.063*"untuk" + 0.062*"dimaksud"')

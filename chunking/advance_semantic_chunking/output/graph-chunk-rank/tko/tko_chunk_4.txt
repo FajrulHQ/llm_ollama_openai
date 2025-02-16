@@ -1,0 +1,15 @@
+--- Chunk 4 (Words: 100) ---
+uently Asked Question ). 13. User Access Review adalah pendekatan manajemen IT modern yang 
+menekankan pada pembaruan kecil dan periodik secara berkelanjutan 
+terhadap sistem IT pada suatu organisasi (termasuk perangkat keras desktop, 
+sistem operasi, produk, aplikasi, dan infrastruktur server). B. Batasan  
+1. Pengelolaan akun aplikasi yang dimaksud pada TKO ini adalah untuk akun -
+akun yang memerlukan akses ke aplikasi -aplikasi yang dibangun oleh tim 
+Aplikasi IT, dimana akun tersebut diberikan kepada Pekerja ( pegawai, mitra 
+kerja, dan kontraktor) yang berwenang untuk mengakses aplikasi IT di wilayah 
+kerja Perusahaan. 2. Akun aplikasi yang dimaksud adalah akun aplikasi yang sudah terda
+
+--- Topics ---
+(0, '0.016*"yang" + 0.016*"aplikasi" + 0.016*"akun" + 0.016*"adalah" + 0.016*"dan" + 0.016*"pada" + 0.016*"dimaksud" + 0.016*"untuk" + 0.016*"sistem" + 0.016*"terhadap"')
+(1, '0.067*"yang" + 0.058*"aplikasi" + 0.049*"akun" + 0.031*"pada" + 0.031*"adalah" + 0.031*"dan" + 0.021*"dimaksud" + 0.021*"sistem" + 0.021*"kerja" + 0.021*"untuk"')
+(2, '0.017*"akun" + 0.017*"yang" + 0.017*"aplikasi" + 0.016*"dan" + 0.016*"pada" + 0.016*"adalah" + 0.016*"kerja" + 0.016*"untuk" + 0.016*"sistem" + 0.016*"dimaksud"')

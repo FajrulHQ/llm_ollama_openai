@@ -1,0 +1,10 @@
+Permintaan Baru Akun Aplikasi  
+a. Application Programmer  membuat daftar akun 
+yang berisikan kepemilikan akun dan hak akses 
+yang sudah terdaftar untuk masing -masing 
+aplikasi.
+
+Topik: 
+(0, '0.081*"akun" + 0.081*"yang" + 0.047*"Application" + 0.047*"masing" + 0.047*"Aplikasi" + 0.047*"membuat" + 0.047*"hak" + 0.047*"Akun" + 0.047*"Permintaan" + 0.047*"untuk"')
+(1, '0.050*"yang" + 0.050*"akun" + 0.050*"sudah" + 0.050*"daftar" + 0.050*"akse" + 0.050*"dan" + 0.050*"kepemilikan" + 0.050*"aplikasi" + 0.050*"berisikan" + 0.050*"terdaftar"')
+(2, '0.050*"yang" + 0.050*"sudah" + 0.050*"akun" + 0.050*"kepemilikan" + 0.050*"Akun" + 0.050*"untuk" + 0.050*"Permintaan" + 0.050*"akse" + 0.050*"Programmer" + 0.050*"Baru"')

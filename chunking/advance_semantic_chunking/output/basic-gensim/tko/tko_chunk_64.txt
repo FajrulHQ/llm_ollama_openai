@@ -1,0 +1,7 @@
+Pertamina Hulu Rokan WK Rokan No. B10-
+036/PHR86200/2023 -S9 tentang Pengelolaan Akses Sistem IT.
+
+Topik: 
+(0, '0.125*"Rokan" + 0.125*"Sistem" + 0.125*"WK" + 0.125*"Pengelolaan" + 0.125*"Hulu" + 0.125*"Akses" + 0.125*"tentang" + 0.125*"Pertamina"')
+(1, '0.200*"Rokan" + 0.114*"Akses" + 0.114*"Pertamina" + 0.114*"Hulu" + 0.114*"Pengelolaan" + 0.114*"tentang" + 0.114*"WK" + 0.114*"Sistem"')
+(2, '0.126*"Rokan" + 0.125*"Sistem" + 0.125*"WK" + 0.125*"tentang" + 0.125*"Pengelolaan" + 0.125*"Hulu" + 0.125*"Pertamina" + 0.124*"Akses"')

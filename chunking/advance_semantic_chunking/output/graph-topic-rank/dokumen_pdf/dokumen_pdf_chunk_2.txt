@@ -1,0 +1,14 @@
+ ditetapkan   menjadi sebuah   Perusahaan 
+Negara   (PN) dengan nama   PN  Pertambangan Minyak Nasional   (Permina). Kemudian pada   20 Agustus 1968, PN Permina bergabung dengan PN   Pertamin 
+sehingga menjadi sebuah perusahaan baru bernama   PN Pertambangan Minyak dan 
+Gas Bumi Negara (Pertamina). Selang beberapa tahun kemudian tepatnya tanggal 15   Desember 1971, 
+Pemerintah mengatur peran PN Pertamina   untuk menghasilkan dan mengolah migas 
+dari ladang -ladang   minyak serta menyediakan kebutuhan bahan bakar dan gas   di 
+Indonesia sehingga nama PN Pertamina diubah menjadi   Perusahaan Pertambangan 
+Minyak dan Gas Bumi Negara. Dalam tonggak sejarah berikutnya, melalui PP No. 31 
+Tahun   
+
+Topics:
+- Topic 1: ['PN', 'dan', 'Minyak', 'Pertambangan', 'Negara', 'menjadi', 'Pertamina', 'Permina', 'nama', 'Perusahaan']
+- Topic 2: ['PN', 'dan', 'Pertamina', 'menjadi', 'Negara', 'Pertambangan', 'Minyak', 'Gas', 'kemudian', 'sebuah']
+- Topic 0: ['PN', 'dan', 'Minyak', 'Pertambangan', 'Negara', 'menjadi', 'Pertamina', 'Bumi', 'Perusahaan', 'sehingga']

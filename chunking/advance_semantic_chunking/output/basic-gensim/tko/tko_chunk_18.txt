@@ -1,0 +1,8 @@
+Admin Aplikasi adalah personel yang ditunjuk oleh Perusahaan untuk 
+mengontrol akses aplikasi dan/atau data yang tidak bisa di akses oleh pihak 
+yang tidak berwenang.
+
+Topik: 
+(0, '0.050*"tidak" + 0.050*"mengontrol" + 0.050*"Perusahaan" + 0.050*"oleh" + 0.050*"dan" + 0.050*"pihak" + 0.050*"aplikasi" + 0.050*"data" + 0.050*"Admin" + 0.050*"atau"')
+(1, '0.105*"yang" + 0.074*"akse" + 0.074*"oleh" + 0.074*"tidak" + 0.042*"Aplikasi" + 0.042*"ditunjuk" + 0.042*"adalah" + 0.042*"aplikasi" + 0.042*"di" + 0.042*"personel"')
+(2, '0.050*"yang" + 0.050*"tidak" + 0.050*"oleh" + 0.050*"akse" + 0.050*"mengontrol" + 0.050*"dan" + 0.050*"berwenang" + 0.050*"pihak" + 0.050*"Perusahaan" + 0.050*"bisa"')

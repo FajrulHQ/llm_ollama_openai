@@ -1,0 +1,16 @@
+--- Chunk 1 (Words: 94) ---
+isisi   72,65% 
+saham perusahaan migas Prancis Maurel et Prom   (M&P) di tahun 2017. Melalui 
+kepemilikan saham mayoritas di   M&P, PERTAMINA memiliki akses operasi di 12 
+negara yang   tersebar di 4 (empat) benua. Derap langkah PERTAMINA sebagai Holding BUMN Migas   juga semakin 
+nyata pasca rampungnya proses pengambilalihan   kepemilikan 51% saham PT 
+Pertamina Gas (Pertagas) oleh   PT Perusahaan Gas Negara (PGN) di tahun 
+2018. Sebagaimana diketahui, Pertagas adalah salah satu anak   usaha PERTAMINA 
+yang bergerak di sektor midstream dan   downstream industri   gas  Indonesia. Dengan 
+tuntasnya aksi   korporasi tersebut, PERTAMINA semakin memantapkan   posisinya 
+sebagai garda terdepan ya
+
+--- Topics ---
+(0, '0.015*"di" + 0.015*"saham" + 0.015*"PERTAMINA" + 0.015*"sebagai" + 0.015*"Pertagas" + 0.015*"yang" + 0.015*"kepemilikan" + 0.015*"semakin" + 0.015*"PT" + 0.015*"Gas"')
+(1, '0.015*"di" + 0.015*"saham" + 0.015*"PT" + 0.015*"Gas" + 0.015*"kepemilikan" + 0.015*"PERTAMINA" + 0.015*"Pertagas" + 0.015*"sebagai" + 0.015*"yang" + 0.015*"semakin"')
+(2, '0.058*"di" + 0.031*"PERTAMINA" + 0.031*"saham" + 0.021*"tahun" + 0.021*"Gas" + 0.021*"semakin" + 0.021*"PT" + 0.021*"yang" + 0.021*"kepemilikan" + 0.021*"Pertagas"')

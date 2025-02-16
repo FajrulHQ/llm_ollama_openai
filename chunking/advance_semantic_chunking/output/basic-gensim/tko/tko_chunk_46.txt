@@ -1,0 +1,7 @@
+yang berwenang untuk mengakses aplikasi IT di wilayah 
+kerja Perusahaan.
+
+Topik: 
+(0, '0.111*"wilayah" + 0.111*"mengakse" + 0.111*"aplikasi" + 0.111*"untuk" + 0.111*"berwenang" + 0.111*"Perusahaan" + 0.111*"yang" + 0.111*"kerja" + 0.111*"di"')
+(1, '0.111*"di" + 0.111*"kerja" + 0.111*"yang" + 0.111*"Perusahaan" + 0.111*"berwenang" + 0.111*"untuk" + 0.111*"aplikasi" + 0.111*"mengakse" + 0.111*"wilayah"')
+(2, '0.111*"yang" + 0.111*"di" + 0.111*"berwenang" + 0.111*"Perusahaan" + 0.111*"kerja" + 0.111*"untuk" + 0.111*"wilayah" + 0.111*"mengakse" + 0.111*"aplikasi"')

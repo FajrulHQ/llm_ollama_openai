@@ -1,0 +1,16 @@
+1) Jika aplikasi tersebut memerlukan akses  database 
+maka lanjut ke proses 1 j 
+2) Jika aplikasi tersebut tidak memerlukan akses 
+database maka lanjut ke proses 1 k. 
+j. IT IO – Database  Administrator  melakukan 
+penambahan akun baru pada database aplikasi yang 
+diminta dan memberitahu penambahan akses akun 
+baru ke Technical Writer . 
+ k. Application Programmer  memberikan akses ke 
+aplikasi yang diminta dan memberitahu penambahan 
+akses akun baru ke Technical Writer.
+
+Topik: 
+(0, '0.035*"ke" + 0.035*"akse" + 0.035*"database" + 0.035*"aplikasi" + 0.035*"akun" + 0.035*"lanjut" + 0.035*"penambahan" + 0.035*"baru" + 0.035*"yang" + 0.034*"Jika"')
+(1, '0.036*"ke" + 0.035*"akse" + 0.035*"database" + 0.035*"penambahan" + 0.035*"akun" + 0.035*"aplikasi" + 0.035*"baru" + 0.035*"memerlukan" + 0.035*"memberitahu" + 0.035*"Technical"')
+(2, '0.077*"ke" + 0.062*"aplikasi" + 0.062*"database" + 0.062*"akse" + 0.048*"baru" + 0.048*"penambahan" + 0.048*"akun" + 0.034*"Writer" + 0.034*"maka" + 0.034*"yang"')

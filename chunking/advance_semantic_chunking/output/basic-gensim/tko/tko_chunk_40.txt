@@ -1,0 +1,7 @@
+Technical Writer  adalah personel yang ditunjuk untuk membuat dokumentasi 
+(User manual , UAT, Installation Guide , dan Frequently Asked Question ).
+
+Topik: 
+(0, '0.056*"Installation" + 0.056*"adalah" + 0.056*"user" + 0.056*"ditunjuk" + 0.056*"dokumentasi" + 0.056*"Question" + 0.056*"untuk" + 0.056*"Guide" + 0.056*"membuat" + 0.056*"Technical"')
+(1, '0.056*"Writer" + 0.056*"dan" + 0.056*"Frequently" + 0.056*"UAT" + 0.056*"personel" + 0.056*"manual" + 0.056*"Asked" + 0.056*"membuat" + 0.056*"Guide" + 0.056*"Technical"')
+(2, '0.056*"Installation" + 0.056*"dokumentasi" + 0.056*"user" + 0.056*"manual" + 0.056*"ditunjuk" + 0.056*"Question" + 0.056*"yang" + 0.056*"untuk" + 0.056*"Frequently" + 0.056*"Technical"')

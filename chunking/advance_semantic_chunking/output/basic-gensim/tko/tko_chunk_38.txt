@@ -1,0 +1,7 @@
+11. IT Service Desk adalah tim IT yang bertugas sebagai single point of contact  
+(SPOC) antara penerima layanan (Pengguna) dan pemberi layanan IT.
+
+Topik: 
+(0, '0.059*"layanan" + 0.059*"dan" + 0.059*"point" + 0.059*"SPOC" + 0.059*"tim" + 0.059*"sebagai" + 0.059*"single" + 0.059*"contact" + 0.059*"Service" + 0.059*"Pengguna"')
+(1, '0.059*"layanan" + 0.059*"dan" + 0.059*"Pengguna" + 0.059*"yang" + 0.059*"antara" + 0.059*"tim" + 0.059*"contact" + 0.059*"adalah" + 0.059*"Desk" + 0.059*"Service"')
+(2, '0.099*"layanan" + 0.056*"pemberi" + 0.056*"penerima" + 0.056*"bertugas" + 0.056*"single" + 0.056*"SPOC" + 0.056*"sebagai" + 0.056*"Service" + 0.056*"Desk" + 0.056*"adalah"')

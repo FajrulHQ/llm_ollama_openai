@@ -1,0 +1,6 @@
+Aplikasi Upstream  
+2.
+
+Topik: 
+(0, '0.503*"Upstream" + 0.497*"Aplikasi"')
+(1, '0.502*"Aplikasi" + 0.498*"Upstream"')

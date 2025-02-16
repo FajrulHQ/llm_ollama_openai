@@ -1,0 +1,6 @@
+Pengelolaan akun aplikasi yang dimaksud pada TKO ini adalah untuk akun- akun yang memerlukan akses ke aplikasi-aplikasi yang dibangun oleh tim Aplikasi IT, dimana akun tersebut diberikan kepada Pekerja (pegawai, mitra kerja, dan kontraktor) yang berwenang untuk mengakses aplikasi IT di wilayah kerja Perusahaan. 2. Akun aplikasi yang dimaksud adalah akun aplikasi yang sudah terdaftar di aplikasi dan akun aplikasi yang belum terdaftar di aplikasi atau permintaan akun baru yang diperlukan untuk mengakses aplikasi. FUNGSI : INFORMATION TECHNOLOGY NOMOR :
+
+Topik:
+- aplikasi, yang, akun, untuk, di, dimaksud, adalah, terdaftar, mengakse, kerja
+- aplikasi, yang, akun, di, untuk, dan, kerja, mengakse, terdaftar, adalah
+- aplikasi, yang, akun, untuk, di, mengakse, kerja, dan, dimaksud, terdaftar

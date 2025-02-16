@@ -1,0 +1,8 @@
+IT IO  – Database Administrator  
+6. IT Service Desk  
+7.
+
+Topik: 
+(0, '0.200*"Desk" + 0.200*"Administrator" + 0.200*"Service" + 0.200*"IO" + 0.200*"Database"')
+(1, '0.200*"Service" + 0.200*"Database" + 0.200*"Desk" + 0.200*"Administrator" + 0.200*"IO"')
+(2, '0.200*"IO" + 0.200*"Database" + 0.200*"Administrator" + 0.200*"Desk" + 0.200*"Service"')

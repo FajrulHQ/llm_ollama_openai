@@ -1,0 +1,31 @@
+Manual  
+ 
+VI. FUNGSI/UNIT ORGANISASI/JABATAN TERKAIT  
+1. Application Programmer  
+2. Atasan Pengguna  
+3. Business Analyst  
+4. Information Steward  
+5. IT IO  – Database Administrator  
+6. IT Service Desk  
+7. Onsite Support  
+8. Pengguna  
+9. Technical Writer  
+ 
+ 
+ 
+Lampiran  1 - TKO No. B10-/PHR /2024 -S9 Rev. 0  
+Diagram Alir Proses Pengelolaan Akun Aplikasi Melalui Proses User Access Review  
+Prosedur  Application 
+Programmer   
+Technical Writer  
+ Information 
+Steward  Business Analyst 1. Permintaan Baru Akun Aplikasi  
+a. Application Programmer  membuat daftar akun 
+yang berisikan kepemilikan akun dan hak akses 
+yang sudah terdaftar untuk masing -masing 
+aplikasi. Kemudian mengirim
+
+=== Topics ===
+(0, '0.018*"Programmer" + 0.018*"Business" + 0.018*"Application" + 0.018*"Analyst" + 0.018*"Information" + 0.018*"Technical" + 0.018*"akun" + 0.018*"Writer" + 0.018*"Aplikasi" + 0.018*"yang"')
+(1, '0.018*"Programmer" + 0.018*"yang" + 0.018*"Application" + 0.018*"Aplikasi" + 0.018*"akun" + 0.018*"Writer" + 0.018*"Proses" + 0.018*"Akun" + 0.018*"Steward" + 0.018*"Business"')
+(2, '0.037*"Application" + 0.037*"Programmer" + 0.026*"Technical" + 0.026*"Information" + 0.026*"Analyst" + 0.026*"Steward" + 0.026*"Akun" + 0.026*"Proses" + 0.026*"Business" + 0.026*"Writer"')

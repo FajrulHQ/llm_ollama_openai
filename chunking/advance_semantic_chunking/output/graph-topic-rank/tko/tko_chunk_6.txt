@@ -1,0 +1,12 @@
+  dan pemilik proses bisnis 
+yang memberikan  layanan aplikasi IT terintegrasi untuk mendukung kegiatan operasional Perusahaan. 9. Pengguna  adalah individu atau kelompok dalam unit struktural Perusahaan 
+yang menggunakan suatu layanan teknologi informasi, terdiri atas Pegawai, 
+Mitra Kerja, dan Kontraktor lain yang memenuhi syarat akses layanan sistem 
+IT. 10. Perusahaan  adalah PT . Pertamina Hulu Rokan – Zona  Rokan. 11. IT Service Desk adalah tim IT yang bertugas sebagai single point of contact  
+(SPOC) antara penerima layanan (Pengguna) dan pemberi layanan IT. 12. Technical Writer  adalah personel yang ditunjuk untuk membuat dokumentasi 
+(User manual , UAT, Installation Guide , dan Freq
+
+Topics:
+- Topic 1: ['layanan', 'yang', 'dan', 'adalah', 'Perusahaan', 'Rokan', 'untuk', 'Pengguna', 'bertugas', 'aplikasi']
+- Topic 0: ['yang', 'adalah', 'layanan', 'dan', 'Perusahaan', 'Pengguna', 'Rokan', 'untuk', 'Hulu', 'sistem']
+- Topic 2: ['adalah', 'layanan', 'yang', 'dan', 'Perusahaan', 'untuk', 'Pengguna', 'Rokan', 'unit', 'penerima']

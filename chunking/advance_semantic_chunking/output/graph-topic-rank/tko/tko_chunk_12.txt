@@ -1,0 +1,26 @@
+inta persetujuan dari daftar 
+hasil peninjauan akun yang telah selesai ditinjau 
+oleh Information Steward . e. Business Analyst menyetujui daftar hasil 
+peninjauan akun dan meminta Technical Writer  
+untuk membuat tiket terkait akun -akun yang perlu 
+ditambahkan aksesnya ke aplikasi. Mulai  
+1a 
+1c 
+1d 1b A 1e 
+ 
+ 
+ 
+Prosedur  Application 
+Programmer   
+Technical Writer  
+ Onsite Support  IT IO – Database 
+Administrator  
+f. Technical Writer  membuat tiket  untuk pengecekan 
+terhadap ketersediaan lisensi kepada Onsite 
+Support . g. Onsite Support  melakukan pengecekan terhadap 
+ketersediaan lisensi. 1. Jika lisensi tersedia maka lanjut ke proses 1h. 2. Jika lisensi tidak tersedia maka Onsite
+
+Topics:
+- Topic 1: ['lisensi', 'Onsite', 'Support', 'Writer', 'Technical', 'akun', 'pengecekan', 'membuat', 'peninjauan', 'hasil']
+- Topic 2: ['Onsite', 'akun', 'lisensi', 'Support', 'Writer', 'tiket', 'hasil', 'Jika', 'Technical', 'maka']
+- Topic 0: ['lisensi', 'Technical', 'Onsite', 'akun', 'daftar', 'Writer', 'Jika', 'yang', 'ketersediaan', 'Support']

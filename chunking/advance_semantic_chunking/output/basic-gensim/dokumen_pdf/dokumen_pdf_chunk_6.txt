@@ -1,0 +1,11 @@
+Pada tanggal 1 Juli 1961 sebagaimana ditetapkan melalui   Peraturan 
+Pemerintah No. 198 Tahun 1961, Permina ditetapkan   menjadi sebuah   Perusahaan 
+Negara   (PN) dengan nama   PN  Pertambangan Minyak Nasional   (Permina). 
+ Kemudian pada   20 Agustus 1968, PN Permina bergabung dengan PN   Pertamin 
+sehingga menjadi sebuah perusahaan baru bernama   PN Pertambangan Minyak dan 
+Gas Bumi Negara (Pertamina).
+
+Topik: 
+(0, '0.032*"PN" + 0.031*"Permina" + 0.031*"Pertambangan" + 0.031*"sebuah" + 0.031*"dengan" + 0.031*"Negara" + 0.031*"menjadi" + 0.031*"ditetapkan" + 0.031*"pada" + 0.031*"Minyak"')
+(1, '0.094*"PN" + 0.059*"Permina" + 0.041*"Negara" + 0.041*"menjadi" + 0.041*"dengan" + 0.041*"Minyak" + 0.041*"sebuah" + 0.041*"pada" + 0.041*"Pertambangan" + 0.041*"ditetapkan"')
+(2, '0.033*"PN" + 0.032*"Permina" + 0.032*"ditetapkan" + 0.032*"Pertambangan" + 0.031*"pada" + 0.031*"Minyak" + 0.031*"sebuah" + 0.031*"dengan" + 0.031*"menjadi" + 0.031*"Perusahaan"')

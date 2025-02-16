@@ -1,0 +1,8 @@
+Akun aplikasi yang dimaksud adalah akun aplikasi yang sudah terdaftar di 
+aplikasi dan akun aplikasi yang belum terdaftar di aplikasi atau permintaan 
+akun baru yang diperlukan untuk mengakses aplikasi .
+
+Topik: 
+(0, '0.059*"yang" + 0.059*"aplikasi" + 0.059*"akun" + 0.059*"adalah" + 0.059*"terdaftar" + 0.059*"atau" + 0.059*"Akun" + 0.059*"baru" + 0.059*"permintaan" + 0.059*"belum"')
+(1, '0.059*"aplikasi" + 0.059*"yang" + 0.059*"akun" + 0.059*"permintaan" + 0.059*"adalah" + 0.059*"atau" + 0.059*"baru" + 0.059*"belum" + 0.059*"Akun" + 0.059*"di"')
+(2, '0.183*"aplikasi" + 0.125*"yang" + 0.096*"akun" + 0.067*"di" + 0.067*"terdaftar" + 0.038*"sudah" + 0.038*"mengakse" + 0.038*"untuk" + 0.038*"diperlukan" + 0.038*"dimaksud"')

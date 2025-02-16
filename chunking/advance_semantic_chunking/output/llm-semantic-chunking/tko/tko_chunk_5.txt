@@ -1,0 +1,6 @@
+INFORMATION TECHNOLOGY NOMOR : B10-/PHR/2024-S9 REVISI KE :  BERLAKU TMT : HALAMAN : 2 dari 5 JUDUL : PENGELOLAAN AKUN APLIKASI 0 1 2 3 4 TATA KERJA ORGANISASI 5. Atasan Pengguna adalah atasan langsung dari User (Pengguna) yang meminta hak akses. 6. Business Analyst adalah personel yang ditunjuk oleh Perusahaan untuk menganalisis data dan informasi bisnis untuk membantu Perusahaan membuat keputusan yang lebih baik, termasuk: a. Membantu menganalisis kebutuhan bisnis b. Mengumpulkan dan menilai data c. Memahami proses bisnis d. Merancang solusi dan perancangan sistem e. Mengkomunikasikan hasil, presentasi, serta evaluasi dan pemantauan 7.
+
+Topik:
+- dan, yang, Perusahaan, dari, bisnis, adalah, Pengguna, menganalisis, untuk, termasuk
+- dan, yang, bisnis, menganalisis, adalah, Pengguna, dari, untuk, Perusahaan, Mengkomunikasikan
+- dan, yang, untuk, Pengguna, menganalisis, adalah, Perusahaan, dari, bisnis, Membantu

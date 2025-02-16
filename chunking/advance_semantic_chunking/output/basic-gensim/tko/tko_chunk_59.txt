@@ -1,0 +1,10 @@
+B10 -
+012/PHR86200/2023 -S9 Rev.0 tentang Pengelolaan dan Pemeliharaan Aplikasi IT.  
+ 
+ V. DOKUMEN TERKAIT  
+1.
+
+Topik: 
+(0, '0.143*"Pengelolaan" + 0.143*"DOKUMEN" + 0.143*"TERKAIT" + 0.143*"dan" + 0.143*"tentang" + 0.143*"Pemeliharaan" + 0.143*"Aplikasi"')
+(1, '0.143*"Pengelolaan" + 0.143*"DOKUMEN" + 0.143*"Pemeliharaan" + 0.143*"TERKAIT" + 0.143*"tentang" + 0.143*"dan" + 0.143*"Aplikasi"')
+(2, '0.143*"Aplikasi" + 0.143*"dan" + 0.143*"tentang" + 0.143*"Pemeliharaan" + 0.143*"TERKAIT" + 0.143*"DOKUMEN" + 0.143*"Pengelolaan"')

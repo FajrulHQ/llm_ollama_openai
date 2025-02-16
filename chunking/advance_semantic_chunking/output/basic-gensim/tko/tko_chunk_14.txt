@@ -1,0 +1,7 @@
+Proses pengelolaan akun -akun aplikasi dimana ada  beberapa aplikasi  yang perlu 
+memiliki akun database  terlebih untuk bisa diberikan akun aplikasi.
+
+Topik: 
+(0, '0.067*"perlu" + 0.067*"pengelolaan" + 0.067*"ada" + 0.067*"untuk" + 0.067*"prose" + 0.067*"yang" + 0.067*"database" + 0.067*"aplikasi" + 0.067*"terlebih" + 0.067*"dimana"')
+(1, '0.067*"akun" + 0.067*"aplikasi" + 0.067*"perlu" + 0.067*"terlebih" + 0.067*"diberikan" + 0.067*"database" + 0.067*"prose" + 0.067*"pengelolaan" + 0.067*"bisa" + 0.067*"yang"')
+(2, '0.139*"aplikasi" + 0.139*"akun" + 0.056*"dimana" + 0.056*"memiliki" + 0.056*"beberapa" + 0.056*"ada" + 0.056*"untuk" + 0.056*"bisa" + 0.056*"yang" + 0.056*"pengelolaan"')

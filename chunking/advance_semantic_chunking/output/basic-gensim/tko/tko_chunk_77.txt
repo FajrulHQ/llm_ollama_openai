@@ -1,0 +1,11 @@
+d. Technical Writer  menginfokan hasil peninjauan 
+akun aplikasi yang sudah selesai dilakukan oleh 
+Information Steward  ke Business Analyst , 
+untuk kemudian meminta persetujuan dari daftar 
+hasil peninjauan akun yang telah selesai ditinjau 
+oleh Information Steward .
+
+Topik: 
+(0, '0.056*"akun" + 0.056*"oleh" + 0.056*"hasil" + 0.056*"selesai" + 0.056*"yang" + 0.056*"peninjauan" + 0.056*"Information" + 0.056*"Steward" + 0.032*"daftar" + 0.032*"aplikasi"')
+(1, '0.040*"Steward" + 0.040*"Information" + 0.040*"peninjauan" + 0.040*"yang" + 0.040*"oleh" + 0.040*"hasil" + 0.040*"selesai" + 0.040*"akun" + 0.040*"sudah" + 0.040*"menginfokan"')
+(2, '0.040*"selesai" + 0.040*"yang" + 0.040*"Steward" + 0.040*"hasil" + 0.040*"Information" + 0.040*"peninjauan" + 0.040*"akun" + 0.040*"oleh" + 0.040*"ditinjau" + 0.040*"menginfokan"')

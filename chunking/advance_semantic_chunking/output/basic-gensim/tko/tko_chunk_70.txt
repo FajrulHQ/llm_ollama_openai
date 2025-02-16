@@ -1,0 +1,6 @@
+Business Analyst  
+4.
+
+Topik: 
+(0, '0.501*"Analyst" + 0.499*"Business"')
+(1, '0.501*"Business" + 0.499*"Analyst"')

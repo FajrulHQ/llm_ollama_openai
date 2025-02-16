@@ -1,0 +1,9 @@
+Aplikasi Non -ERP Bisnis  adalah perangkat lunak yang digunakan oleh 
+Perusahaan untuk mendukung operasi penunjang bisnis meliputi: finance , 
+procurement , Health Safety , and Environment , Human Capital , Security , 
+Facility Management , General Counsel , Land Management , dan Medical .
+
+Topik: 
+(0, '0.055*"Management" + 0.032*"untuk" + 0.032*"General" + 0.032*"bisnis" + 0.032*"yang" + 0.032*"meliputi" + 0.032*"Security" + 0.032*"Medical" + 0.032*"operasi" + 0.032*"procurement"')
+(1, '0.033*"Management" + 0.032*"Counsel" + 0.032*"Perusahaan" + 0.032*"lunak" + 0.032*"Human" + 0.032*"Capital" + 0.032*"Land" + 0.032*"penunjang" + 0.032*"Bisnis" + 0.032*"dan"')
+(2, '0.032*"Management" + 0.032*"Safety" + 0.032*"Non" + 0.032*"lunak" + 0.032*"Perusahaan" + 0.032*"Environment" + 0.032*"Health" + 0.032*"Land" + 0.032*"penunjang" + 0.032*"finance"')

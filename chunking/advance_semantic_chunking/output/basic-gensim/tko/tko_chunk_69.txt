@@ -1,0 +1,6 @@
+Atasan Pengguna  
+3.
+
+Topik: 
+(0, '0.509*"Pengguna" + 0.491*"Atasan"')
+(1, '0.504*"Atasan" + 0.496*"Pengguna"')

@@ -1,0 +1,6 @@
+Tata Kelola Organisasi PT Pertamina Hulu Rokan – WK Rokan No.
+
+Topik: 
+(0, '0.126*"Rokan" + 0.125*"Hulu" + 0.125*"PT" + 0.125*"Pertamina" + 0.125*"Organisasi" + 0.125*"Tata" + 0.125*"WK" + 0.125*"Kelola"')
+(1, '0.200*"Rokan" + 0.114*"Kelola" + 0.114*"WK" + 0.114*"Tata" + 0.114*"Organisasi" + 0.114*"Pertamina" + 0.114*"PT" + 0.114*"Hulu"')
+(2, '0.125*"Hulu" + 0.125*"Pertamina" + 0.125*"PT" + 0.125*"Kelola" + 0.125*"WK" + 0.125*"Organisasi" + 0.125*"Rokan" + 0.125*"Tata"')

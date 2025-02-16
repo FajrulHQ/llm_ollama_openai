@@ -1,0 +1,9 @@
+User Access Review adalah pendekatan manajemen IT modern yang 
+menekankan pada pembaruan kecil dan periodik secara berkelanjutan 
+terhadap sistem IT pada suatu organisasi (termasuk perangkat keras desktop, 
+sistem operasi, produk, aplikasi, dan infrastruktur server).
+
+Topik: 
+(0, '0.056*"sistem" + 0.056*"dan" + 0.056*"pada" + 0.032*"kecil" + 0.032*"perangkat" + 0.032*"manajeman" + 0.032*"infrastruktur" + 0.032*"aplikasi" + 0.032*"terhadap" + 0.032*"suatu"')
+(1, '0.035*"pada" + 0.035*"dan" + 0.035*"sistem" + 0.035*"pendekatan" + 0.035*"desktop" + 0.035*"secara" + 0.035*"operasi" + 0.034*"pembaruan" + 0.034*"periodik" + 0.034*"modern"')
+(2, '0.034*"dan" + 0.034*"User" + 0.034*"sistem" + 0.034*"pada" + 0.034*"keras" + 0.034*"adalah" + 0.034*"desktop" + 0.034*"operasi" + 0.034*"manajeman" + 0.034*"periodik"')

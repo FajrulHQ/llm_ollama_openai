@@ -1,0 +1,6 @@
+Jika lisensi tersedia maka lanjut ke proses 1h.
+
+Topik: 
+(0, '0.143*"prose" + 0.143*"lisensi" + 0.143*"tersedia" + 0.143*"maka" + 0.143*"Jika" + 0.143*"ke" + 0.143*"lanjut"')
+(1, '0.143*"ke" + 0.143*"Jika" + 0.143*"lanjut" + 0.143*"lisensi" + 0.143*"tersedia" + 0.143*"maka" + 0.143*"prose"')
+(2, '0.143*"lanjut" + 0.143*"ke" + 0.143*"Jika" + 0.143*"maka" + 0.143*"tersedia" + 0.143*"lisensi" + 0.143*"prose"')

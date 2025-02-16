@@ -1,0 +1,8 @@
+Analisis teknis dan  peninjauan  pemakaian akun -akun aplikasi secara  berkala 
+melalui pelaksanaan User Access Review  (UAR)  setiap dua kali setahun sehingga 
+dapat diketahui  rincian pem akaian dari akun -akun aplikasi tersebut.
+
+Topik: 
+(0, '0.037*"akun" + 0.037*"secara" + 0.037*"aplikasi" + 0.037*"dua" + 0.037*"melalui" + 0.037*"setahun" + 0.037*"rincian" + 0.037*"peninjauan" + 0.037*"diketahui" + 0.037*"berkala"')
+(1, '0.061*"aplikasi" + 0.061*"akun" + 0.035*"akaian" + 0.035*"tersebut" + 0.035*"sehingga" + 0.035*"teknis" + 0.035*"pelaksanaan" + 0.035*"secara" + 0.035*"UAR" + 0.035*"pemakaian"')
+(2, '0.038*"akun" + 0.037*"aplikasi" + 0.037*"dari" + 0.037*"Review" + 0.037*"kali" + 0.037*"setahun" + 0.037*"User" + 0.037*"Access" + 0.037*"analisis" + 0.037*"rincian"')

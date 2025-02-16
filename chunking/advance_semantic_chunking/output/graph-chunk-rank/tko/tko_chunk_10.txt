@@ -1,0 +1,27 @@
+--- Chunk 10 (Words: 96) ---
+inta persetujuan dari daftar 
+hasil peninjauan akun yang telah selesai ditinjau 
+oleh Information Steward . e. Business Analyst menyetujui daftar hasil 
+peninjauan akun dan meminta Technical Writer  
+untuk membuat tiket terkait akun -akun yang perlu 
+ditambahkan aksesnya ke aplikasi. Mulai  
+1a 
+1c 
+1d 1b A 1e 
+ 
+ 
+ 
+Prosedur  Application 
+Programmer   
+Technical Writer  
+ Onsite Support  IT IO – Database 
+Administrator  
+f. Technical Writer  membuat tiket  untuk pengecekan 
+terhadap ketersediaan lisensi kepada Onsite 
+Support . g. Onsite Support  melakukan pengecekan terhadap 
+ketersediaan lisensi. 1. Jika lisensi tersedia maka lanjut ke proses 1h. 2. Jika lisensi tidak tersedia maka Onsite
+
+--- Topics ---
+(0, '0.020*"Technical" + 0.020*"Support" + 0.020*"Onsite" + 0.020*"akun" + 0.020*"lisensi" + 0.020*"tiket" + 0.020*"Writer" + 0.020*"terhadap" + 0.020*"maka" + 0.020*"membuat"')
+(1, '0.020*"Onsite" + 0.020*"lisensi" + 0.020*"Technical" + 0.020*"Support" + 0.020*"Writer" + 0.020*"akun" + 0.020*"yang" + 0.020*"hasil" + 0.020*"daftar" + 0.020*"tiket"')
+(2, '0.045*"lisensi" + 0.045*"Onsite" + 0.035*"Writer" + 0.035*"akun" + 0.035*"Support" + 0.035*"Technical" + 0.024*"maka" + 0.024*"ketersediaan" + 0.024*"tersedia" + 0.024*"untuk"')

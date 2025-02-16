@@ -1,0 +1,8 @@
+Undang -Undang Republik Indonesia No. 11 Tahun 2008 tentang lnformasi dan 
+Transaksi Elektronik  
+2.
+
+Topik: 
+(0, '0.111*"lnformasi" + 0.111*"Transaksi" + 0.111*"Undang" + 0.111*"tentang" + 0.111*"Tahun" + 0.111*"Republik" + 0.111*"dan" + 0.111*"Indonesia" + 0.111*"Elektronik"')
+(1, '0.111*"Transaksi" + 0.111*"Indonesia" + 0.111*"Elektronik" + 0.111*"Republik" + 0.111*"dan" + 0.111*"Tahun" + 0.111*"lnformasi" + 0.111*"tentang" + 0.111*"Undang"')
+(2, '0.111*"Undang" + 0.111*"tentang" + 0.111*"Tahun" + 0.111*"lnformasi" + 0.111*"dan" + 0.111*"Republik" + 0.111*"Elektronik" + 0.111*"Indonesia" + 0.111*"Transaksi"')

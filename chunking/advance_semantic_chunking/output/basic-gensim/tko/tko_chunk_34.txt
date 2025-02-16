@@ -1,0 +1,9 @@
+Pengguna  adalah individu atau kelompok dalam unit struktural Perusahaan 
+yang menggunakan suatu layanan teknologi informasi, terdiri atas Pegawai, 
+Mitra Kerja, dan Kontraktor lain yang memenuhi syarat akses layanan sistem 
+IT.
+
+Topik: 
+(0, '0.037*"layanan" + 0.037*"yang" + 0.037*"Pegawai" + 0.037*"akse" + 0.037*"Mitra" + 0.037*"individu" + 0.037*"memenuhi" + 0.037*"Pengguna" + 0.037*"dalam" + 0.037*"suatu"')
+(1, '0.037*"layanan" + 0.037*"yang" + 0.037*"suatu" + 0.037*"individu" + 0.037*"memenuhi" + 0.037*"dan" + 0.037*"Pengguna" + 0.037*"Pegawai" + 0.037*"struktural" + 0.037*"dalam"')
+(2, '0.061*"yang" + 0.061*"layanan" + 0.035*"syarat" + 0.035*"terdiri" + 0.035*"adalah" + 0.035*"Kerja" + 0.035*"informasi" + 0.035*"lain" + 0.035*"teknologi" + 0.035*"unit"')

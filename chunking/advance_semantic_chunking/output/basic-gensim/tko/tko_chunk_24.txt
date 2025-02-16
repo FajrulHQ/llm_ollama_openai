@@ -1,0 +1,12 @@
+Application Programmer adalah personel yang ditunjuk untuk:  
+a. Merancang struktur dari program/aplikasi  
+b. Mendesain program, mengembangkan program  
+c. Melakukan deploy  atau mengimplementasikan program  
+ 
+FUNGSI  :  INFORMATION TECHNOLOGY  NOMOR             : B10-/PHR /2024-S9 
+REVISI  KE        :   
+
+Topik: 
+(0, '0.124*"program" + 0.038*"FUNGSI" + 0.038*"INFORMATION" + 0.038*"personel" + 0.038*"mengembangkan" + 0.038*"KE" + 0.038*"Application" + 0.038*"Mendesain" + 0.038*"struktur" + 0.038*"Merancang"')
+(1, '0.042*"program" + 0.042*"Programmer" + 0.042*"yang" + 0.042*"dari" + 0.042*"adalah" + 0.042*"REVISI" + 0.042*"ditunjuk" + 0.042*"atau" + 0.042*"TECHNOLOGY" + 0.042*"mengimplementasikan"')
+(2, '0.042*"program" + 0.042*"NOMOR" + 0.042*"deploy" + 0.042*"ditunjuk" + 0.042*"untuk" + 0.042*"mengimplementasikan" + 0.042*"Melakukan" + 0.042*"TECHNOLOGY" + 0.042*"struktur" + 0.042*"aplikasi"')

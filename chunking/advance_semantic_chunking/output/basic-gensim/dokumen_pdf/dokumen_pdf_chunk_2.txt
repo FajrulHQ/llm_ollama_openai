@@ -1,0 +1,11 @@
+Pertamina  
+ 
+Perjalanan panjang PT Pertamina (Persero) atau “PERTAMINA”   dalam 
+menjaga ketahanan energi nasional dimulai sejak   sekitar tahun 1950 -an melalui 
+pendirian PT Eksploitasi   Tambang Minyak Sumatera Utara oleh Pemerintah 
+Indonesia   yang ditugaskan untuk mengelola ladang minyak di wilayah   Sumatera.
+
+Topik: 
+(0, '0.030*"Sumatera" + 0.030*"Pertamina" + 0.030*"PT" + 0.029*"Perjalanan" + 0.029*"tahun" + 0.029*"minyak" + 0.029*"atau" + 0.029*"pendirian" + 0.029*"dalam" + 0.029*"ditugaskan"')
+(1, '0.048*"Pertamina" + 0.048*"PT" + 0.048*"Sumatera" + 0.028*"untuk" + 0.028*"Indonesia" + 0.028*"PERTAMINA" + 0.028*"ladang" + 0.028*"di" + 0.028*"mengelola" + 0.028*"ketahanan"')
+(2, '0.030*"Sumatera" + 0.030*"PT" + 0.029*"Pertamina" + 0.029*"Perjalanan" + 0.029*"wilayah" + 0.029*"energi" + 0.029*"menjaga" + 0.029*"atau" + 0.029*"melalui" + 0.029*"panjang"')

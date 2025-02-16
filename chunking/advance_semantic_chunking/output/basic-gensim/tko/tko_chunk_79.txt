@@ -1,0 +1,7 @@
+Mulai  
+1a 
+1c 
+1d 1b
+
+Topik: 
+(0, '1.000*"Mulai"')

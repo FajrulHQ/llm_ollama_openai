@@ -1,0 +1,7 @@
+g. Onsite Support  melakukan pengecekan terhadap 
+ketersediaan lisensi.
+
+Topik: 
+(0, '0.143*"terhadap" + 0.143*"Support" + 0.143*"lisensi" + 0.143*"Onsite" + 0.143*"ketersediaan" + 0.143*"pengecekan" + 0.143*"melakukan"')
+(1, '0.143*"lisensi" + 0.143*"Support" + 0.143*"pengecekan" + 0.143*"melakukan" + 0.143*"ketersediaan" + 0.143*"Onsite" + 0.143*"terhadap"')
+(2, '0.143*"melakukan" + 0.143*"ketersediaan" + 0.143*"pengecekan" + 0.143*"Onsite" + 0.143*"terhadap" + 0.143*"Support" + 0.143*"lisensi"')

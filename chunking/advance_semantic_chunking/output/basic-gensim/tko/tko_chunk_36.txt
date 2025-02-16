@@ -1,0 +1,6 @@
+Perusahaan  adalah PT .
+
+Topik: 
+(0, '0.333*"Perusahaan" + 0.333*"PT" + 0.333*"adalah"')
+(1, '0.333*"adalah" + 0.333*"Perusahaan" + 0.333*"PT"')
+(2, '0.333*"PT" + 0.333*"adalah" + 0.333*"Perusahaan"')

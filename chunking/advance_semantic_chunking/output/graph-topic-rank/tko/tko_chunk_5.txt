@@ -1,0 +1,17 @@
+ATA KERJA ORGANISASI  
+5. Atasan Pengguna  adalah atasan langsung dari User  (Pengguna) yang 
+meminta hak akses. 6. Business Analyst adalah  personel yang ditunjuk oleh Perusahaan untuk 
+menganalisis data dan informasi bisnis untuk membantu Perusahaan membuat 
+keputusan yang lebih baik, termasuk:  
+a. Membantu menganalisis kebutuhan bisnis  
+b. Mengumpulkan dan menilai data  
+c. Memahami proses bisnis  
+d. Merancang solusi dan perancangan sistem  
+e. Meng komunikasikan hasil, presentasi, serta evaluasi dan pemantauan  
+7. Onsite Support adalah personel yang ditunjuk untuk mengontrol akses 
+aplikasi dan/atau data dari suatu aplikasi vendor. 8. Pemilik Aplikasi adalah pemilik  layanan aplikasi
+
+Topics:
+- Topic 1: ['dan', 'yang', 'adalah', 'untuk', 'aplikasi', 'menganalisis', 'datum', 'ditunjuk', 'Pengguna', 'akse']
+- Topic 0: ['adalah', 'dan', 'yang', 'aplikasi', 'bisni', 'personel', 'dari', 'untuk', 'Perusahaan', 'akse']
+- Topic 2: ['dan', 'adalah', 'aplikasi', 'untuk', 'Perusahaan', 'yang', 'akse', 'personel', 'Pengguna', 'menganalisis']

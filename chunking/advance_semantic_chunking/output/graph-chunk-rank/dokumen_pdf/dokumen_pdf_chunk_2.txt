@@ -1,0 +1,15 @@
+--- Chunk 2 (Words: 92) ---
+ ditetapkan   menjadi sebuah   Perusahaan 
+Negara   (PN) dengan nama   PN  Pertambangan Minyak Nasional   (Permina). Kemudian pada   20 Agustus 1968, PN Permina bergabung dengan PN   Pertamin 
+sehingga menjadi sebuah perusahaan baru bernama   PN Pertambangan Minyak dan 
+Gas Bumi Negara (Pertamina). Selang beberapa tahun kemudian tepatnya tanggal 15   Desember 1971, 
+Pemerintah mengatur peran PN Pertamina   untuk menghasilkan dan mengolah migas 
+dari ladang -ladang   minyak serta menyediakan kebutuhan bahan bakar dan gas   di 
+Indonesia sehingga nama PN Pertamina diubah menjadi   Perusahaan Pertambangan 
+Minyak dan Gas Bumi Negara. Dalam tonggak sejarah berikutnya, melalui PP No. 31 
+Tahun   
+
+--- Topics ---
+(0, '0.018*"PN" + 0.018*"dan" + 0.018*"menjadi" + 0.018*"Negara" + 0.018*"Minyak" + 0.018*"Pertambangan" + 0.018*"sebuah" + 0.018*"Gas" + 0.018*"Bumi" + 0.018*"Pertamina"')
+(1, '0.020*"PN" + 0.018*"Pertamina" + 0.018*"dan" + 0.018*"Pertambangan" + 0.018*"Negara" + 0.018*"menjadi" + 0.018*"Minyak" + 0.018*"Perusahaan" + 0.018*"Permina" + 0.018*"nama"')
+(2, '0.070*"PN" + 0.042*"dan" + 0.032*"Minyak" + 0.032*"menjadi" + 0.032*"Negara" + 0.032*"Pertambangan" + 0.032*"Pertamina" + 0.022*"dengan" + 0.022*"kemudian" + 0.022*"Bumi"')

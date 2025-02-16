@@ -1,0 +1,16 @@
+--- Chunk 3 (Words: 88) ---
+Riwayat Singkat PT. Pertamina  
+ 
+Perjalanan panjang PT Pertamina (Persero) atau “PERTAMINA”   dalam 
+menjaga ketahanan energi nasional dimulai sejak   sekitar tahun 1950 -an melalui 
+pendirian PT Eksploitasi   Tambang Minyak Sumatera Utara oleh Pemerintah 
+Indonesia   yang ditugaskan untuk mengelola ladang minyak di wilayah   Sumatera. Selanjutnya pada 10 Desember 1957, PERTAMINA   mulai benar -benar mengawali 
+sejarahnya sebagai perusahaan   energi setelah melakukan perubahan nama dari PT 
+Eksploitasi   Tambang Minyak Sumatera Utara menjadi PT Perusahaan   Minyak 
+Nasional (PERMINA). Pada tanggal 1 Juli 1961 sebagaimana ditetapkan melalui   Peraturan 
+Pemerintah No. 198 Tahun 1961, Permina
+
+--- Topics ---
+(0, '0.054*"PT" + 0.034*"Sumatera" + 0.034*"Minyak" + 0.024*"Pemerintah" + 0.024*"Pertamina" + 0.024*"Utara" + 0.024*"melalui" + 0.024*"Eksploitasi" + 0.024*"PERTAMINA" + 0.024*"energi"')
+(1, '0.017*"PT" + 0.017*"Minyak" + 0.017*"Sumatera" + 0.017*"Eksploitasi" + 0.017*"Tambang" + 0.016*"melalui" + 0.016*"PERTAMINA" + 0.016*"Utara" + 0.016*"pada" + 0.016*"Pertamina"')
+(2, '0.017*"PT" + 0.017*"Sumatera" + 0.017*"Minyak" + 0.016*"energi" + 0.016*"pada" + 0.016*"Tambang" + 0.016*"PERTAMINA" + 0.016*"melalui" + 0.016*"Pemerintah" + 0.016*"Pertamina"')

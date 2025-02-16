@@ -1,0 +1,11 @@
+ORGANISASI  
+I. TUJUAN  
+Tujuan dari Tata Kerja Organisasi (TKO) ini adalah untuk menjelaskan proses 
+pengelolaan akun -akun yang memerlukan akses ke  aplikasi Non -ERP yang meliputi 
+aplikasi Non -ERP bisnis, aplikasi upstream  dan infrastruktur  pendukung lainnya di 
+lingkungan PT.
+
+Topik: 
+(0, '0.073*"aplikasi" + 0.051*"Non" + 0.051*"yang" + 0.029*"menjelaskan" + 0.029*"Tata" + 0.029*"ORGANISASI" + 0.029*"TKO" + 0.029*"lingkungan" + 0.029*"lainnya" + 0.029*"memerlukan"')
+(1, '0.033*"aplikasi" + 0.033*"yang" + 0.032*"Non" + 0.032*"pendukung" + 0.032*"upstream" + 0.032*"untuk" + 0.032*"prose" + 0.032*"dari" + 0.032*"meliputi" + 0.032*"infrastruktur"')
+(2, '0.032*"yang" + 0.032*"Non" + 0.032*"aplikasi" + 0.032*"memerlukan" + 0.032*"meliputi" + 0.032*"di" + 0.032*"prose" + 0.032*"Organisasi" + 0.032*"infrastruktur" + 0.032*"ini"')

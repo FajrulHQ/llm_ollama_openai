@@ -1,0 +1,7 @@
+Jika lisensi tidak tersedia maka Onsite Support  
+akan memberitahu ke Technical Writer .
+
+Topik: 
+(0, '0.084*"memberitahu" + 0.083*"Writer" + 0.083*"maka" + 0.083*"Technical" + 0.083*"tidak" + 0.083*"lisensi" + 0.083*"akan" + 0.083*"ke" + 0.083*"Jika" + 0.083*"tersedia"')
+(1, '0.083*"lisensi" + 0.083*"Onsite" + 0.083*"Jika" + 0.083*"akan" + 0.083*"memberitahu" + 0.083*"ke" + 0.083*"Writer" + 0.083*"tidak" + 0.083*"tersedia" + 0.083*"Support"')
+(2, '0.083*"Support" + 0.083*"tersedia" + 0.083*"Technical" + 0.083*"maka" + 0.083*"tidak" + 0.083*"ke" + 0.083*"Onsite" + 0.083*"Jika" + 0.083*"akan" + 0.083*"Writer"')

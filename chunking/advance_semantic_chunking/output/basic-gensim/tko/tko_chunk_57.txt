@@ -1,0 +1,9 @@
+Pedoman SKK Migas No. KEP -00008./SKO0000/2013/S0 tentang Tata Kerja 
+Pengelolaan Teknologi lnformasi dan Komunikasi Pada kontraktor Kontrak Kerja 
+Sama.   
+5.
+
+Topik: 
+(0, '0.063*"Kerja" + 0.063*"SKK" + 0.063*"Migas" + 0.063*"Pedoman" + 0.063*"tentang" + 0.063*"Sama" + 0.063*"Pengelolaan" + 0.062*"Pada" + 0.062*"Komunikasi" + 0.062*"kontraktor"')
+(1, '0.104*"Kerja" + 0.060*"Tata" + 0.060*"Kontrak" + 0.060*"KEP" + 0.060*"Teknologi" + 0.060*"dan" + 0.060*"kontraktor" + 0.060*"lnformasi" + 0.060*"Komunikasi" + 0.060*"Pada"')
+(2, '0.063*"SKK" + 0.063*"Pedoman" + 0.063*"dan" + 0.063*"Sama" + 0.063*"lnformasi" + 0.063*"Pada" + 0.063*"Migas" + 0.063*"tentang" + 0.062*"Kerja" + 0.062*"Pengelolaan"')

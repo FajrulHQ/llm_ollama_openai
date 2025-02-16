@@ -1,0 +1,6 @@
+Application Programmer  
+2.
+
+Topik: 
+(0, '0.505*"Programmer" + 0.495*"Application"')
+(1, '0.510*"Application" + 0.490*"Programmer"')

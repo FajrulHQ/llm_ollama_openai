@@ -1,0 +1,8 @@
+II. RUANG LINGKUP  
+Ruang lingkup TKO ini mengatur tata cara pelaksanaan mengenai:  
+1.
+
+Topik: 
+(0, '0.083*"mengatur" + 0.083*"Ruang" + 0.083*"cara" + 0.083*"TKO" + 0.083*"LINGKUP" + 0.083*"II" + 0.083*"lingkup" + 0.083*"ini" + 0.083*"tata" + 0.083*"mengenai"')
+(1, '0.083*"cara" + 0.083*"mengenai" + 0.083*"RUANG" + 0.083*"pelaksanaan" + 0.083*"ini" + 0.083*"mengatur" + 0.083*"II" + 0.083*"TKO" + 0.083*"tata" + 0.083*"lingkup"')
+(2, '0.083*"pelaksanaan" + 0.083*"tata" + 0.083*"RUANG" + 0.083*"mengenai" + 0.083*"lingkup" + 0.083*"ini" + 0.083*"LINGKUP" + 0.083*"II" + 0.083*"TKO" + 0.083*"Ruang"')

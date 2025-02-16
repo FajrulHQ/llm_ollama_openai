@@ -1,0 +1,35 @@
+TATA KERJA ORGANISASI  
+ 
+PENGELOLAAN AKUN APLIKASI No. B10-/PHR/202 4-S9 
+ 
+REVISI KE -       
+ 
+ 
+ 
+ 
+ 
+PERTAMINA HULU ROKAN  
+(REGIONAL 1 - ZONA  ROKAN ) INFORMATION TECHNOLOGY   
+0 1 2 3 4 
+ 
+FUNGSI  : INFORMATION TECHNOLOGY  NOMOR             : B10-/PHR /2024-S9 
+REVISI  KE        :    
+BERLAKU TMT  :       
+HALAMAN         : 1 dari 5 JUDUL  : PENGELOLAAN AKUN APLIKASI  
+ 
+ 
+0 
+ 1 
+ 2 
+ 3 
+ 4  TATA KERJA ORGANISASI  
+I. TUJUAN  
+Tujuan dari Tata Kerja Organisasi (TKO) ini adalah untuk menjelaskan proses 
+pengelolaan akun -akun yang memerlukan akses ke  aplikasi Non -ERP yang meliputi 
+aplikasi Non -ERP bisnis, aplikasi upstream  dan infrastruktur  pendukung lainnya di 
+lingkungan PT. 
+
+Topics:
+- Topic 0: ['aplikasi', 'akun', 'KE', 'KERJA', 'REVISI', 'PENGELOLAAN', 'Non', 'yang', 'dari', 'INFORMATION']
+- Topic 2: ['akun', 'aplikasi', 'TATA', 'INFORMATION', 'ROKAN', 'REVISI', 'TECHNOLOGY', 'KE', 'KERJA', 'yang']
+- Topic 1: ['akun', 'aplikasi', 'ORGANISASI', 'APLIKASI', 'Non', 'PENGELOLAAN', 'dari', 'ROKAN', 'yang', 'TECHNOLOGY']

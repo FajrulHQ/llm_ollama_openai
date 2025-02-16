@@ -1,0 +1,7 @@
+dengan  pengaturan dan pengendalian akses dapat  dilakukan  sesuai standar dan 
+memenuhi kebutuhan bisnis  Perusahaan .
+
+Topik: 
+(0, '0.079*"dan" + 0.077*"dilakukan" + 0.077*"pengendalian" + 0.077*"dapat" + 0.077*"sesuai" + 0.077*"memenuhi" + 0.077*"standar" + 0.077*"Perusahaan" + 0.077*"akse" + 0.077*"bisnis"')
+(1, '0.127*"dan" + 0.073*"dengan" + 0.073*"kebutuhan" + 0.073*"pengaturan" + 0.073*"bisnis" + 0.073*"akse" + 0.073*"Perusahaan" + 0.073*"standar" + 0.073*"memenuhi" + 0.073*"sesuai"')
+(2, '0.077*"dengan" + 0.077*"standar" + 0.077*"dapat" + 0.077*"pengendalian" + 0.077*"dilakukan" + 0.077*"sesuai" + 0.077*"pengaturan" + 0.077*"memenuhi" + 0.077*"kebutuhan" + 0.077*"Perusahaan"')

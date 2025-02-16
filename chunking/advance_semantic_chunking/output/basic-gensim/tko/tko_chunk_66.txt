@@ -1,0 +1,8 @@
+Dokumen Pelaksanaan User Training  dan User Manual  
+ 
+VI.
+
+Topik: 
+(0, '0.143*"Manual" + 0.143*"Training" + 0.143*"Pelaksanaan" + 0.143*"VI" + 0.143*"dan" + 0.143*"Dokumen" + 0.143*"User"')
+(1, '0.226*"User" + 0.129*"Dokumen" + 0.129*"dan" + 0.129*"Training" + 0.129*"Pelaksanaan" + 0.129*"VI" + 0.129*"Manual"')
+(2, '0.143*"VI" + 0.143*"Manual" + 0.143*"Pelaksanaan" + 0.143*"Training" + 0.143*"dan" + 0.143*"Dokumen" + 0.143*"User"')

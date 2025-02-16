@@ -1,0 +1,5 @@
+Selanjutnya pada 10
+
+Topik: 
+(0, '0.501*"pada" + 0.499*"Selanjutnya"')
+(1, '0.503*"Selanjutnya" + 0.497*"pada"')

@@ -1,0 +1,6 @@
+Information Steward  
+5.
+
+Topik: 
+(0, '0.504*"Steward" + 0.496*"Information"')
+(1, '0.508*"Information" + 0.492*"Steward"')

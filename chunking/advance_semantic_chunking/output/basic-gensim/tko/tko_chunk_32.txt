@@ -1,0 +1,5 @@
+operasional Perusahaan.
+
+Topik: 
+(0, '0.501*"operasional" + 0.499*"Perusahaan"')
+(1, '0.501*"Perusahaan" + 0.499*"operasional"')

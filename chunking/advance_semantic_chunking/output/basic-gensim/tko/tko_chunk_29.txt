@@ -1,0 +1,7 @@
+Onsite Support adalah personel yang ditunjuk untuk mengontrol akses 
+aplikasi dan/atau data dari suatu aplikasi vendor.
+
+Topik: 
+(0, '0.063*"aplikasi" + 0.063*"personel" + 0.063*"untuk" + 0.063*"dan" + 0.063*"Onsite" + 0.062*"datum" + 0.062*"Support" + 0.062*"atau" + 0.062*"akse" + 0.062*"ditunjuk"')
+(1, '0.063*"aplikasi" + 0.063*"dan" + 0.063*"Support" + 0.063*"yang" + 0.063*"akse" + 0.063*"suatu" + 0.063*"mengontrol" + 0.063*"ditunjuk" + 0.062*"untuk" + 0.062*"datum"')
+(2, '0.104*"aplikasi" + 0.060*"vendor" + 0.060*"adalah" + 0.060*"suatu" + 0.060*"atau" + 0.060*"dari" + 0.060*"mengontrol" + 0.060*"ditunjuk" + 0.060*"yang" + 0.060*"akse"')

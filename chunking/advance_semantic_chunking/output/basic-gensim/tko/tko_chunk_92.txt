@@ -1,0 +1,9 @@
+Perlu akses 
+database?  
+ Tidak  Ya 
+Selesai
+
+Topik: 
+(0, '0.167*"Ya" + 0.167*"Tidak" + 0.167*"Selesai" + 0.167*"perlu" + 0.166*"akse" + 0.166*"database"')
+(1, '0.167*"database" + 0.167*"akse" + 0.167*"perlu" + 0.167*"Tidak" + 0.167*"Selesai" + 0.167*"Ya"')
+(2, '0.167*"Ya" + 0.167*"Selesai" + 0.167*"akse" + 0.167*"Tidak" + 0.167*"perlu" + 0.167*"database"')

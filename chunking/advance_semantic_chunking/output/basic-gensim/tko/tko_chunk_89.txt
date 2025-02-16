@@ -1,0 +1,8 @@
+l. Technical Writer  menutup tiket permintaan 
+penambahan akun baru setelah mendapat konfirmasi 
+dari masing -masing pemilik Akun ( Pengguna ).
+
+Topik: 
+(0, '0.063*"akun" + 0.063*"permintaan" + 0.063*"penambahan" + 0.063*"baru" + 0.063*"Writer" + 0.063*"Akun" + 0.063*"pemilik" + 0.063*"mase" + 0.063*"dari" + 0.063*"mendapat"')
+(1, '0.063*"permintaan" + 0.063*"mase" + 0.063*"tiket" + 0.063*"akun" + 0.063*"Writer" + 0.063*"penambahan" + 0.062*"menutup" + 0.062*"Pengguna" + 0.062*"baru" + 0.062*"Akun"')
+(2, '0.063*"konfirmasi" + 0.063*"menutup" + 0.063*"Pengguna" + 0.063*"tiket" + 0.063*"Technical" + 0.063*"setelah" + 0.062*"mendapat" + 0.062*"dari" + 0.062*"pemilik" + 0.062*"mase"')

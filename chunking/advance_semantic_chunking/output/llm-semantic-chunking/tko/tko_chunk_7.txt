@@ -1,0 +1,6 @@
+IT Service Desk adalah tim IT yang bertugas sebagai single point of contact (SPOC) antara penerima layanan (Pengguna) dan pemberi layanan IT. 12. Technical Writer adalah personel yang ditunjuk untuk membuat dokumentasi (User manual, UAT, Installation Guide, dan Frequently Asked Question). 13. User Access Review adalah pendekatan manajemen IT modern yang menekankan pada pembaruan kecil dan periodik secara berkelanjutan terhadap sistem IT pada suatu organisasi (termasuk perangkat keras desktop, sistem operasi, produk, aplikasi, dan infrastruktur server). B. Batasan 1.
+
+Topik:
+- dan, adalah, yang, sistem, User, layanan, pada, Installation, desktop, Writer
+- dan, adalah, yang, pada, User, layanan, sistem, operasi, desktop, aplikasi
+- dan, yang, adalah, layanan, pada, sistem, User, single, organisasi, Service

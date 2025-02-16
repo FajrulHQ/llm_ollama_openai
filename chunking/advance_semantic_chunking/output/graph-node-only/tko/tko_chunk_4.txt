@@ -1,0 +1,23 @@
+al , Security , 
+Facility Management , General Counsel , Land Management , dan Medical . 3. Aplikasi Upstream  adalah perangkat lunak yang digunakan oleh Perusahaan 
+untuk mendukung proses geology, geophysics, reservoir, production, facility, 
+drilling, engineering (GGRPFDE). 4. Application Programmer adalah personel yang ditunjuk untuk:  
+a. Merancang struktur dari program/aplikasi  
+b. Mendesain program, mengembangkan program  
+c. Melakukan deploy  atau mengimplementasikan program  
+ 
+FUNGSI  :  INFORMATION TECHNOLOGY  NOMOR             : B10-/PHR /2024-S9 
+REVISI  KE        :    BERLAKU TMT  :       
+HALAMAN         : 2 dari 5 JUDUL  : PENGELOLAAN AKUN APLIKASI  
+ 
+ 
+0 
+ 1 
+ 2 
+ 3 
+ 4  T
+
+=== Topics ===
+(0, '0.051*"program" + 0.027*"Management" + 0.027*"adalah" + 0.027*"dari" + 0.027*"yang" + 0.027*"untuk" + 0.016*"geology" + 0.016*"aplikasi" + 0.016*"prose" + 0.016*"mengimplementasikan"')
+(1, '0.018*"program" + 0.017*"untuk" + 0.017*"dari" + 0.017*"yang" + 0.017*"adalah" + 0.017*"Management" + 0.017*"mendukung" + 0.017*"berlaku" + 0.017*"JUDUL" + 0.017*"t"')
+(2, '0.017*"program" + 0.017*"yang" + 0.017*"Management" + 0.017*"untuk" + 0.017*"adalah" + 0.017*"dari" + 0.017*"PENGELOLAAN" + 0.017*"atau" + 0.017*"GGRPFDE" + 0.017*"INFORMATION"')

@@ -1,0 +1,8 @@
+Proses pengelolaan akun aplikasi Non -ERP yang meliputi:  
+a. Aplikasi Non -ERP Bisnis  
+b.
+
+Topik: 
+(0, '0.111*"yang" + 0.111*"Non" + 0.111*"meliputi" + 0.111*"pengelolaan" + 0.111*"prose" + 0.111*"Aplikasi" + 0.111*"Bisnis" + 0.111*"akun" + 0.111*"aplikasi"')
+(1, '0.111*"yang" + 0.111*"Aplikasi" + 0.111*"prose" + 0.111*"meliputi" + 0.111*"pengelolaan" + 0.111*"aplikasi" + 0.111*"Bisnis" + 0.111*"akun" + 0.111*"Non"')
+(2, '0.180*"Non" + 0.103*"aplikasi" + 0.103*"akun" + 0.103*"Bisnis" + 0.103*"Aplikasi" + 0.103*"pengelolaan" + 0.103*"prose" + 0.103*"meliputi" + 0.103*"yang"')

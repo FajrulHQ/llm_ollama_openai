@@ -1,0 +1,7 @@
+Peninjauan akun aplikasi dimana ada beberapa aplikasi yang perlu memastikan 
+ketersediaan lisensi terlebih dahulu.
+
+Topik: 
+(0, '0.077*"lisensi" + 0.077*"yang" + 0.077*"ketersediaan" + 0.077*"dimana" + 0.077*"perlu" + 0.077*"ada" + 0.077*"dahulu" + 0.077*"akun" + 0.077*"beberapa" + 0.077*"terlebih"')
+(1, '0.077*"dimana" + 0.077*"ketersediaan" + 0.077*"lisensi" + 0.077*"yang" + 0.077*"perlu" + 0.077*"dahulu" + 0.077*"beberapa" + 0.077*"ada" + 0.077*"terlebih" + 0.077*"akun"')
+(2, '0.127*"aplikasi" + 0.073*"memastikan" + 0.073*"peninjauan" + 0.073*"terlebih" + 0.073*"akun" + 0.073*"beberapa" + 0.073*"ada" + 0.073*"dahulu" + 0.073*"perlu" + 0.073*"yang"')

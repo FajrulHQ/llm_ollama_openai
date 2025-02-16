@@ -1,0 +1,6 @@
+Tata Kerja Organisasi PT.
+
+Topik: 
+(0, '0.250*"Organisasi" + 0.250*"Tata" + 0.250*"Kerja" + 0.250*"PT"')
+(1, '0.250*"Organisasi" + 0.250*"Tata" + 0.250*"PT" + 0.250*"Kerja"')
+(2, '0.250*"PT" + 0.250*"Kerja" + 0.250*"Tata" + 0.250*"Organisasi"')

@@ -1,0 +1,9 @@
+diminta dan memberitahu penambahan akses akun 
+baru ke Technical  
+i. Technical Writer  membuat tiket permintaan  akses  
+akun  baru kepada:
+
+Topik: 
+(0, '0.072*"baru" + 0.072*"akun" + 0.072*"Technical" + 0.071*"akse" + 0.071*"permintaan" + 0.071*"memberitahu" + 0.071*"Writer" + 0.071*"penambahan" + 0.071*"membuat" + 0.071*"dan"')
+(1, '0.072*"Technical" + 0.072*"akun" + 0.072*"baru" + 0.072*"akse" + 0.071*"penambahan" + 0.071*"memberitahu" + 0.071*"dan" + 0.071*"kepada" + 0.071*"membuat" + 0.071*"Writer"')
+(2, '0.103*"akse" + 0.103*"Technical" + 0.103*"akun" + 0.103*"baru" + 0.059*"diminta" + 0.059*"ke" + 0.059*"tiket" + 0.059*"kepada" + 0.059*"membuat" + 0.059*"Writer"')

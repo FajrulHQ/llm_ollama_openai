@@ -1,0 +1,6 @@
+d. Technical Writer menginfokan hasil peninjauan akun aplikasi yang sudah selesai dilakukan oleh Information Steward ke Business Analyst, untuk kemudian meminta persetujuan dari daftar hasil peninjauan akun yang telah selesai ditinjau oleh Information Steward. e. Business Analyst menyetujui daftar hasil peninjauan akun dan meminta Technical Writer untuk membuat tiket terkait akun-akun yang perlu ditambahkan aksesnya ke aplikasi. Mulai 1a 1c 1d 1b A 1e Prosedur Application Programmer Technical Writer Onsite Support IT IO – Database Administrator f. Technical Writer membuat tiket untuk pengecekan terhadap ketersediaan lisensi kepada Onsite Support.
+
+Topik:
+- akun, Technical, Writer, yang, hasil, untuk, peninjauan, daftar, meminta, oleh
+- akun, Technical, Writer, hasil, yang, untuk, peninjauan, tiket, Analyst, Information
+- akun, Writer, Technical, peninjauan, untuk, hasil, selesai, yang, aplikasi, Business

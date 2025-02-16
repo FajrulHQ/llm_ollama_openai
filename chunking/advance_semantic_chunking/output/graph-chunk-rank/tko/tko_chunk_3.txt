@@ -1,0 +1,16 @@
+--- Chunk 3 (Words: 100) ---
+Pertamina Hulu Rokan – Zona  Rokan. Akun aplikasi ini diperlukan 
+untuk meng akses aplikasi dengan limitasi untuk Pekerja ( pegawai , mitra kerja dll.) dengan  pengaturan dan pengendalian akses dapat  dilakukan  sesuai standar dan 
+memenuhi kebutuhan bisnis  Perusahaan . II. RUANG LINGKUP  
+Ruang lingkup TKO ini mengatur tata cara pelaksanaan mengenai:  
+1. Proses pengelolaan akun aplikasi Non -ERP yang meliputi:  
+a. Aplikasi Non -ERP Bisnis  
+b. Aplikasi Upstream  
+2. Analisis teknis dan  peninjauan  pemakaian akun -akun aplikasi secara  berkala 
+melalui pelaksanaan User Access Review  (UAR)  setiap dua kali setahun sehingga 
+dapat diketahui  rincian pem akaian dari akun -akun aplikasi ter
+
+--- Topics ---
+(0, '0.014*"aplikasi" + 0.014*"dan" + 0.014*"Aplikasi" + 0.014*"akse" + 0.014*"untuk" + 0.014*"dapat" + 0.014*"akun" + 0.014*"pelaksanaan" + 0.014*"dengan" + 0.014*"Non"')
+(1, '0.048*"aplikasi" + 0.030*"akun" + 0.030*"dan" + 0.021*"Rokan" + 0.021*"pelaksanaan" + 0.021*"ini" + 0.021*"dengan" + 0.021*"Non" + 0.021*"untuk" + 0.021*"dapat"')
+(2, '0.014*"aplikasi" + 0.014*"Aplikasi" + 0.014*"akun" + 0.014*"ini" + 0.014*"Non" + 0.014*"dan" + 0.014*"limitasi" + 0.014*"akse" + 0.014*"pemakaian" + 0.014*"dapat"')

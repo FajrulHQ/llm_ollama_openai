@@ -1,0 +1,14 @@
+Business Analyst adalah  personel yang ditunjuk oleh Perusahaan untuk 
+menganalisis data dan informasi bisnis untuk membantu Perusahaan membuat 
+keputusan yang lebih baik, termasuk:  
+a. Membantu menganalisis kebutuhan bisnis  
+b. Mengumpulkan dan menilai data  
+c. Memahami proses bisnis  
+d. Merancang solusi dan perancangan sistem  
+e. Meng komunikasikan hasil, presentasi, serta evaluasi dan pemantauan  
+7.
+
+Topik: 
+(0, '0.026*"dan" + 0.026*"untuk" + 0.026*"Perusahaan" + 0.026*"bisni" + 0.026*"menganalisis" + 0.026*"yang" + 0.026*"adalah" + 0.026*"solusi" + 0.026*"Merancang" + 0.026*"presentasi"')
+(1, '0.072*"dan" + 0.039*"menganalisis" + 0.039*"yang" + 0.039*"bisni" + 0.039*"Perusahaan" + 0.039*"untuk" + 0.022*"serta" + 0.022*"hasil" + 0.022*"datum" + 0.022*"Mengumpulkan"')
+(2, '0.026*"dan" + 0.026*"yang" + 0.026*"Perusahaan" + 0.026*"bisni" + 0.026*"untuk" + 0.026*"keputusan" + 0.026*"sistem" + 0.026*"menilai" + 0.026*"termasuk" + 0.026*"menganalisis"')

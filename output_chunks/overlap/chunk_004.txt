@@ -1,0 +1,19 @@
+Application Programmer adalah personel yang ditunjuk untuk: a. Merancang
+struktur dari program/aplikasi b. Mendesain program, mengembangkan program c.
+Melakukan deploy atau mengimplementasikan program FUNGSI : INFORMATION
+TECHNOLOGY NOMOR : B10-/PHR/2024-S9 REVISI KE :  BERLAKU TMT : HALAMAN : 2 dari
+5 JUDUL : PENGELOLAAN AKUN APLIKASI 0 1 2 3 4 TATA KERJA ORGANISASI 5. Atasan
+Pengguna adalah atasan langsung dari User (Pengguna) yang meminta hak akses. 6.
+Business Analyst adalah personel yang ditunjuk oleh Perusahaan untuk
+menganalisis data dan informasi bisnis untuk membantu Perusahaan membuat
+keputusan yang lebih baik, termasuk: a. Membantu menganalisis kebutuhan bisnis
+b. Mengumpulkan dan menilai data c. Memahami proses bisnis d. Merancang solusi
+dan perancangan sistem e. Mengkomunikasikan hasil, presentasi, serta evaluasi
+dan pemantauan 7. Onsite Support adalah personel yang ditunjuk untuk mengontrol
+akses aplikasi dan/atau data dari suatu aplikasi vendor. 8. Pemilik Aplikasi
+adalah pemilik layanan aplikasi dan pemilik proses bisnis yang memberikan
+layanan aplikasi IT terintegrasi untuk mendukung kegiatan operasional
+Perusahaan. 9. Pengguna adalah individu atau kelompok dalam unit struktural
+Perusahaan yang menggunakan suatu layanan teknologi informasi, terdiri atas
+Pegawai, Mitra Kerja, dan Kontraktor lain yang memenuhi syarat akses layanan
+sistem IT. 10. Perusahaan adalah PT. Pertamina Hulu Rokan – Zona Rokan. 11.

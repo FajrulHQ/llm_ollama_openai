@@ -1,0 +1,9 @@
+e. Business Analyst menyetujui daftar hasil 
+peninjauan akun dan meminta Technical Writer  
+untuk membuat tiket terkait akun -akun yang perlu 
+ditambahkan aksesnya ke aplikasi.
+
+Topik: 
+(0, '0.080*"akun" + 0.046*"dan" + 0.046*"untuk" + 0.046*"peninjauan" + 0.046*"Analyst" + 0.046*"ke" + 0.046*"yang" + 0.046*"aplikasi" + 0.046*"aksesnya" + 0.046*"Technical"')
+(1, '0.048*"akun" + 0.048*"daftar" + 0.048*"Business" + 0.048*"meminta" + 0.048*"Writer" + 0.048*"hasil" + 0.048*"terkait" + 0.048*"tiket" + 0.048*"membuat" + 0.048*"perlu"')
+(2, '0.048*"akun" + 0.048*"yang" + 0.048*"untuk" + 0.048*"terkait" + 0.048*"Writer" + 0.048*"Technical" + 0.048*"membuat" + 0.048*"perlu" + 0.048*"Business" + 0.048*"ke"')

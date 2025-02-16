@@ -1,0 +1,18 @@
+Technical Writer. l. Technical Writer  menutup tiket permintaan 
+penambahan akun baru setelah mendapat konfirmasi 
+dari masing -masing pemilik Akun ( Pengguna ). A 
+1f 
+1h 
+ Ya Tidak  Ketersediaan 
+lisensi ? 1g 
+1i 
+1j 
+1k 
+1l Perlu akses 
+database? Tidak  Ya 
+Selesai
+
+Topics:
+- Topic 1: ['Technical', 'Ya', 'Tidak', 'Writer', 'g', 'Ketersediaan', 'dari', 'Pengguna', 'setelah', 'permintaan']
+- Topic 0: ['Writer', 'Ya', 'Tidak', 'Technical', 'akse', 'akun', 'penambahan', 'database', 'Akun', 'lisensi']
+- Topic 2: ['Writer', 'Tidak', 'Technical', 'Ya', 'akun', 'Selesai', 'konfirmasi', 'penambahan', 'tiket', 'menutup']
