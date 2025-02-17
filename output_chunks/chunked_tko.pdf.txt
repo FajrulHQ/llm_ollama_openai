@@ -1,0 +1,48 @@
+Chunk 1:
+Berikut adalah segmentasi teks yang jelas dan logis: TATA KERJA ORGANISASI PENGELOLAAN AKUN APLIKASI No. B10 /PHR/2024 S9 REVISI KE 0 Nomor : B10 /PHR/2024 S9
+Funsi : INFORMATION TECHNOLOGY TATA KERJA ORGANISASI FUNGSI : INFORMATION TECHNOLOGY
+Tujuan dari Tata Kerja Organisasi (TKO) ini adalah untuk menjelaskan proses pengelolaan akun akun yang memerlukan akses ke aplikasi Non ERP. Ruangan lingkup TKO ini mengatur tata cara pelaksanaan mengenai: Proses pengelolaan akun aplikasi Non ERP yang meliputi:
+	+ Aplikasi Non ERP Bisnis
+	+ Aplikasi Upstream Analisis teknis dan peninjauan pemakaian akun akun aplikasi secara berkala melalui pelaksanaan User Access Review (UAR) setiap dua kali setahun. REVISI KE :   JUDUL : PENGELOLAAN AKUN APLIKASI BERLAKU TMT : HALAMAN : 1 dari 5 Berikut adalah pengejaan dan pemisahan teks menjadi segment yang logis: Apat diketahui rincian pemakaian dari akun akun aplikasi tersebut. Proses pengelolaan akun akun aplikasi dimana ada beberapa aplikasi yang perlu memiliki akun database terlebih untuk bisa diberikan akun aplikasi. Peninjauan akun aplikasi dimana ada beberapa aplikasi yang perlu memastikan ketersediaan lisensi terlebih dahulu.
+
+---
+
+Chunk 2:
+1. Admin Aplikasi : personel yang ditunjuk oleh Perusahaan untuk mengontrol akses aplikasi dan/atau data yang tidak bisa di akses oleh pihak yang tidak berwenang.
+2. Aplikasi Non ERP Bisnis : perangkat lunak yang digunakan oleh Perusahaan untuk mendukung operasi penunjang bisnis meliputi: Finance Procurement Health Safety Environment Human Capital Security Facility Management General Counsel Land Management Medical
+3. Aplikasi Upstream : perangkat lunak yang digunakan oleh Perusahaan untuk mendukung proses geology, geophysics, reservoir, production, facility, drilling, engineering (GGRPFDE).
+4. Application Programmer : personel yang ditunjuk untuk: Merancang struktur dari program/aplikasi Mendesain program, mengembangkan program Melakukan deploy atau mengimpor aplikasi
+
+---
+
+Chunk 3:
+Pemahaman Program TATA KERJA ORGANISASI FUNGI Judul program: Pengelolaan Akun Aplikasi Berlaku Tujuan program: Mengatur pengelolaan akun aplikasi dan akses teknologi informasi Atasan Pengguna adalah atasan langsung dari User (Pengguna) yang meminta hak akses. Business Analyst adalah personel yang ditunjuk oleh Perusahaan untuk menganalisis data dan informasi bisnis untuk membantu Perusahaan membuat keputusan yang lebih baik. Fungsi: Membantu menganalisis kebutuhan bisnis Mengumpulkan dan menilai data Memahami proses bisnis Merancang solusi dan perancangan sistem Mengkomunikasikan hasil, presentasi, serta evaluasi dan pemantauan Onsite Support adalah personel yang ditunjuk untuk mengontrol akses aplikasi dan/atau data dari suatu aplikasi vendor. Pemilik Aplikasi adalah pemilik layanan aplikasi dan pemilik proses bisnis yang memberikan layanan aplikasi IT terintegrasi untuk mendukung kegiatan operasional Perusahaan. Pengguna adalah individu atau kelompok dalam unit struktural Perusahaan yang menggunakan suatu layanan teknologi informasi, terdiri atas Pegawai, Mitra Kerja, dan Kontraktor lain yang memenuhi syarat akses layanan sistem IT. Berikut adalah segmentasi teks menjadi bagian bagian yang lebih rapi dan logis:
+10. Perusahaan adalah PT. Pertamina Hulu Rokan Zona Rokan.
+11. IT Service Desk adalah tim IT yang bertugas sebagai single point of contact (SPOC) antara penerima layanan (Pengguna) dan pemberi layanan IT. 12. Technical Writer adalah personel yang ditunjuk untuk membuat dokumentasi ( User manual , UAT, Installation Guide , dan Frequently Asked Question ). 13. User Access Review adalah pendekatan manajemen IT modern yang menekankan pada pembaruan kecil dan periodik secara berkelanjutan terhadap sistem IT pada suatu organisasi (termasuk perangkat keras desktop, sistem operasi, produk, aplikasi, dan infrastruktur server). Batasan:
+1. Pengelolaan akun aplikasi yang dimaksud pada TKO ini adalah untuk akun akun yang memerlukan akses ke aplikasi aplikasi yang dibangun oleh tim Aplikasi IT, dimana akun tersebut diberikan kepada Pekerja (pegawai, mitra kerja, dan kontraktor) yang berwenang untuk mengakses aplikasi IT di wilayah kerja Perusahaan. 2. Akun aplikasi yang dimaksud adalah akun aplikasi yang sudah terdaftar di aplikasi dan akun aplikasi yang belum terdaftar di aplikasi atau permintaan akun baru yang diperlukan untuk mengakses aplikasi. INFORMATIO Nomor: B10 /PHR/2024 S9 Tahun: 2024 Submerek: S9 (Serangkaian) Revisi Ke: 0, 2, 3, 1, 4 Pengelolaan Akun Aplikasi Berlaku TMT (Tahun)
+
+---
+
+Chunk 4:
+Halaman: 3 dari 5 Nomor: 11 Tahun 2008 Materi: Informasi dan Transaksi Elektronik No. Dokumen: A10 001/PHE53000/2021 S9 Rev.0 Materi: Penyelenggaraan Tata Kelola Teknologi Informasi Perusahaan Tanggal Diterbitkan: 2021 No. Dokumen: A10 002/PHE53000/2021 S9 Rev.0 Materi: Pedoman Perencanaan Teknologi Informasi No. Dokumen: KEP 00008./SKO0000/2013/S0 Materi: Tata Kerja Pengelolaan Teknologi Informasi dan Komunikasi Pada Kontraktor No. Dokumen: B10 012/PHR86200/2023 S9 Rev.0 Materi: Pengelolaan dan Pemeliharaan Aplikasi IT No. Dokumen: B10 001/PHR86200/2022 S9 Materi: Pengelolaan Insiden Keamanan Informasi No. Dokumen: B10 036/PHR86200/2023 S9 Materi: Pengelolaan Akses Sistem IT No. Dokumen: B10 012/PHR86200/2023 S9 Rev.0 Materi: Pengelolaan dan Pemeliharaan Aplikasi IT Tidak tercantum dalam informasi yang tersedia
+
+---
+
+Chunk 5:
+Segmentasi Teks untuk Mengenal Alur Proses Pengelolaan Akun Aplikasi =========================================================== Deskripsi alur proses pengelolaan akun aplikasi Atasan Pengguna Business Analyst Information Steward IT IO (Database Administrator) IT Service Desk Onsite Support Pengguna Application Programmer Membuat daftar akun yang berisikan kepemilikan akun dan hak akses yang sudah terdaftar untuk masing masing aplikasi. Mengirimkan daftar akun tersebut ke Technical Writer. Technical Writer Menerima daftar akun dari Application Programmer. Mengirimkan email UAR (User Access Review) kepada Information Steward untuk meninjau daftar akun aplikasi yang perlu diperbarui. Information Steward Meninjau daftar akun yang diterima. Mengirimkan kembali ke Technical Writer email UAR hasil tinjauan berupa daftar akun baru yang perlu ditambahkan akses ke aplikasi. Technical Writer Menerima email UAR hasil tinjauan dari Information Steward. Menginfokan hasil peninjauan akun aplikasi yang sudah selesai dilakukan.
+
+---
+
+Chunk 6:
+Berikut adalah segmentasi teks menjadi subbagian yang logis: an oleh Information Steward ke Business Analyst , untuk kemudian meminta persetujuan dari daftar hasil peninjauan akun yang telah selesai ditinjau oleh Information Steward . e. Business Analyst menyetujui daftar hasil 1e A peninjauan akun dan meminta Technical Writer untuk membuat tiket terkait akun akun yang perlu ditambahkan aksesnya ke aplikasi. f. Technical Writer membuat tiket untuk pengecekan A terhadap ketersediaan lisensi kepada Onsite Support . g. Onsite Support melakukan pengecekan terhadap 1f 1g Tidak Ketersediaan ketersediaan lisensi. h. Onsite Support memberikan akses ke aplikasi yang lisensinya tersedia. Ya diminta dan memberitahu penambahan akses akun baru ke Technical i. i. Technical Writer membuat tiket permintaan akses 1h 1i akun baru kepada:
+1) Jika aplikasi tersebut memerlukan akses database maka lanjut ke proses 1j 
+2) Jika aplikasi tersebut tidak memerlukan akses, maka Perlu akses database? Ya database maka lanjut ke proses 1k.
+
+---
+
+Chunk 7:
+Berikut adalah segmentasi teks menjadi subbagian dengan penggunaan garis bawah (`
+`) untuk membedakan antara segment: Penambahan Akses Akun Baru Administrator melakukan penambahan akun baru pada database aplikasi yang diminta dan memberitahu penambahan akses akun baru ke Technical Writer. Penanganan Akses Akun Baru Dari Sisi Pengguna K. Application Programmer memberikan akses ke 1l Selesai aplikasi yang diminta dan memberitahu penambahan akses akun baru ke Technical Writer. Verifikasi dan Penutup Tiket Permintaan l. Technical Writer menutup tiket permintaan penambahan akun baru setelah mendapat konfirmasi dari masing masing pemilik Akun ( Pengguna ).
+
+---
+
